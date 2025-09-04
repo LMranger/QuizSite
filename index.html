@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>✈️ 民航證照題庫｜測驗練習 by chatGPT</title>
+    <!-- Tailwind via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- React 18 UMD + ReactDOM -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <!-- Babel Standalone for in-browser JSX transform (for a quick static demo) -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  </head>
+  <body class="min-h-screen bg-neutral-950 text-neutral-100">
+    <div id="root"></div>
+
+    <script type="text/babel">
+      const { useMemo, useState, useEffect } = React;
+
+      const LETTERS = ["A", "B", "C", "D"];
+
+      const styles = {
+        page: "min-h-screen w-full bg-neutral-950 text-neutral-100",
+        wrap: "max-w-4xl mx-auto px-4 py-8",
+        card: "rounded-2xl shadow-md border border-neutral-800 p-5 bg-neutral-900",
+        sectionTitle: "text-xl font-semibold mb-3",
+        btn: "px-3 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800",
+        btnPrimary: "px-4 py-2 rounded-xl bg-white text-black font-medium hover:opacity-90",
+        input: "w-full bg-neutral-800 border border-neutral-700 rounded-xl p-3",
+      };
+
+      function sample(arr, n) {
+        const copy = [...arr];
+        for (let i = copy.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [copy[i], copy[j]] = [copy[j], copy[i]];
+        }
+        return copy.slice(0, Math.max(0, Math.min(n, copy.length)));
+      }
+
+      function parseQuestions(text) {
+        try {
+          const data = JSON.parse(text);
+          if (!Array.isArray(data)) return null;
+          return data.filter((d) => d && d.subject && d.language && d.question && d.options && d.answer);
+        } catch {
+          return null;
+        }
+      }
+
+      function computeAccuracy(correct, total) {
+        if (!total || total <= 0) return 0;
+        return Math.round((correct / total) * 100);
+      }
+
+      const SAMPLE = [
+        {
+          subject: "民用航空法及相關法規(航務)",
+          language: "中文",
+          question_id: "0068115",
+          option_count: 4,
+          question: "航空器使用人指以航空器從事飛航作業之",
+          options: ["自然人", "法人", "政府機關", "全部皆對"],
+          answer: "D",
+        },
+      ];
+
+      function QuizApp() {
+        const [rawData, setRawData] = useState(null);
+        const [subjects, setSubjects] = useState([]);
+        const [languages, setLanguages] = useState([]);
+        const [selectedSubject, setSelectedSubject] = useState("");
+        const [selectedLanguage, setSelectedLanguage] = useState("");
+        const [count, setCount] = useState(20);
+
+        const [inQuiz, setInQuiz] = useState(false);
+        const [quizSet, setQuizSet] = useState([]);
+        const [index, setIndex] = useState(0);
+        const [answers, setAnswers] = useState({});
+        const [correctCount, setCorrectCount] = useState(0);
+        const [loadingServer, setLoadingServer] = useState(false);
+
+        const allData = useMemo(() => rawData ?? SAMPLE, [rawData]);
+
+        useEffect(() => {
+          const subs = Array.from(new Set(allData.map((d) => d.subject))).sort();
+          setSubjects(subs);
+          if (!selectedSubject && subs.length) setSelectedSubject(subs[0]);
+        }, [allData]);
+
+        useEffect(() => {
+          const langs = Array.from(
+            new Set(
+              allData
+                .filter((d) => !selectedSubject || d.subject === selectedSubject)
+                .map((d) => d.language)
+            )
+          ).sort();
+          setLanguages(langs);
+          if (!selectedLanguage && langs.length) setSelectedLanguage(langs[0]);
+        }, [allData, selectedSubject]);
+
+        const pool = useMemo(
+          () =>
+            allData.filter((d) => {
+              if (selectedSubject && d.subject !== selectedSubject) return false;
+              if (selectedLanguage && d.language !== selectedLanguage) return false;
+              return true;
+            }),
+          [allData, selectedSubject, selectedLanguage]
+        );
+
+        async function loadFromServer() {
+          try {
+            setLoadingServer(true);
+            const res = await fetch("/aviation_questions.json", { cache: "no-store" });
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            const text = await res.text();
+            const parsed = parseQuestions(text);
+            if (parsed && parsed.length) {
+              setRawData(parsed);
+              setInQuiz(false);
+              setIndex(0);
+              setAnswers({});
+              setCorrectCount(0);
+              alert(`已自伺服器載入 ${parsed.length} 題`);
+            } else {
+              throw new Error("資料格式不符或內容為空");
+            }
+          } catch (err) {
+            alert("讀取失敗：無法取得或解析題庫 (aviation_questions.json)。\n請確認檔案是否存在且格式正確。");
+          } finally {
+            setLoadingServer(false);
+          }
+        }
+
+        useEffect(() => {
+          if (!rawData) {
+            loadFromServer();
+          }
+        }, []);
+
+        function handleUploadFile(e) {
+          const file = e.target.files?.[0];
+          if (!file) return;
+          const reader = new FileReader();
+          reader.onload = () => {
+            const text = String(reader.result || "");
+            const parsed = parseQuestions(text);
+            if (parsed) {
+              setRawData(parsed);
+              setInQuiz(false);
+              setIndex(0);
+              setAnswers({});
+              setCorrectCount(0);
+              alert(`已匯入 ${parsed.length} 題`);
+            } else {
+              alert("解析失敗，請確認檔案是題庫 JSON 陣列，且包含 language 欄位。");
+            }
+          };
+          reader.readAsText(file);
+          e.target.value = "";
+        }
+
+        function startQuiz() {
+          if (!selectedSubject || !selectedLanguage) {
+            alert("請先選擇科目與語言");
+            return;
+          }
+          if (pool.length === 0) {
+            alert("該條件下無題目");
+            return;
+          }
+          const n = Math.max(1, Math.min(count, pool.length));
+          const set = sample(pool, n);
+          setQuizSet(set);
+          setIndex(0);
+          setAnswers({});
+          setCorrectCount(0);
+          setInQuiz(true);
+        }
+
+        function pickOption(letter) {
+          const q = quizSet[index];
+          if (!q) return;
+          setAnswers((prev) => ({ ...prev, [q.question_id]: letter }));
+          if (letter === q.answer) setCorrectCount((c) => c + 1);
+          if (index + 1 < quizSet.length) {
+            setIndex(index + 1);
+          } else {
+            setInQuiz(false);
+          }
+        }
+
+        const finished = !inQuiz && quizSet.length > 0 && Object.keys(answers).length === quizSet.length;
+        const ratio = computeAccuracy(correctCount, quizSet.length);
+        const pass = ratio >= 70;
+        const wrongList = finished ? quizSet.filter((q) => answers[q.question_id] !== q.answer) : [];
+        const current = inQuiz ? quizSet[index] : null;
+
+        return (
+          <div className={styles.page}>
+            <div className={styles.wrap}>
+              <header className="flex items-center justify-between mb-6">
+                <h1 className="text-2xl md:text-3xl font-bold">✈️ 航務題庫｜測驗練習 Demo</h1>
+                <div className="flex gap-2 items-center">
+                  <label className={`${styles.btn} cursor-pointer`}>
+                    上傳題庫 JSON
+                    <input type="file" accept="application/json" className="hidden" onChange={handleUploadFile} />
+                  </label>
+                  <button className={styles.btn} onClick={loadFromServer} disabled={loadingServer}>
+                    {loadingServer ? "從伺服器載入中…" : "從伺服器載入"}
+                  </button>
+                </div>
+              </header>
+
+              {!inQuiz && !finished && (
+                <div className={styles.card}>
+                  <h2 className={styles.sectionTitle}>測驗設定</h2>
+                  <div className="grid md:grid-cols-3 gap-4 items-end">
+                    <div>
+                      <label className="block text-sm mb-1">科目</label>
+                      <select className={styles.input} value={selectedSubject} onChange={(e) => setSelectedSubject(e.target.value)}>
+                        {subjects.map((s) => (
+                          <option key={s} value={s}>{s}</option>
+                        ))}
+                      </select>
+                    </div>
+                    <div>
+                      <label className="block text-sm mb-1">語言</label>
+                      <select className={styles.input} value={selectedLanguage} onChange={(e) => setSelectedLanguage(e.target.value)}>
+                        {languages.map((l) => (
+                          <option key={l} value={l}>{l}</option>
+                        ))}
+                      </select>
+                    </div>
+                    <div>
+                      <label className="block text-sm mb-1">題數</label>
+                      <input type="number" className={styles.input} value={count} min={1} max={Math.max(1, pool.length)} onChange={(e) => setCount(parseInt(e.target.value || "1", 10))} />
+                    </div>
+                  </div>
+                  <div className="mt-4 flex gap-3">
+                    <button className={styles.btnPrimary} onClick={startQuiz}>開始測驗</button>
+                  </div>
+                </div>
+              )}
+
+              {inQuiz && current && (
+                <div className={styles.card}>
+                  <div className="flex items-center justify-between mb-2 text-sm text-neutral-400">
+                    <span>科目：{selectedSubject} | 語言：{selectedLanguage}</span>
+                    <span>第 {index + 1} / {quizSet.length} 題</span>
+                  </div>
+                  <h3 className="text-lg font-semibold mb-4 leading-relaxed">{current.question}</h3>
+                  <div className="grid gap-3">
+                    {current.options.slice(0, current.option_count).map((opt, i) => {
+                      const letter = LETTERS[i];
+                      return (
+                        <button key={letter} className="text-left w-full rounded-xl border border-neutral-700 hover:bg-neutral-800 p-3" onClick={() => pickOption(letter)}>
+                          <div className="flex gap-3 items-start">
+                            <div className="mt-0.5 min-w-6 h-6 flex items-center justify-center rounded-md border border-neutral-600">{letter}</div>
+                            <div className="whitespace-pre-wrap">{opt}</div>
+                          </div>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
+
+              {finished && (
+                <div className="space-y-4">
+                  <div className={styles.card}>
+                    <h2 className={styles.sectionTitle}>成績</h2>
+                    <div className="flex flex-wrap items-center gap-4">
+                      <div className="text-3xl font-bold">正確率 {ratio}%</div>
+                      <div className={`px-3 py-1 rounded-full text-sm font-medium ${pass ? "bg-green-600/20 text-green-300 border border-green-700" : "bg-red-600/20 text-red-300 border border-red-700"}`}>
+                        {pass ? "及格" : "未達標（70%）"}
+                      </div>
+                      <div className="text-sm text-neutral-400">答對 {correctCount} / {quizSet.length} 題</div>
+                    </div>
+                    <div className="mt-4 flex gap-3">
+                      <button className={styles.btnPrimary} onClick={startQuiz}>再做一次測驗</button>
+                      <button className={styles.btn} onClick={() => { setInQuiz(false); setQuizSet([]); setIndex(0); setAnswers({}); setCorrectCount(0); }}>回到設定</button>
+                    </div>
+                  </div>
+
+                  {wrongList.length > 0 && (
+                    <div className={styles.card}>
+                      <h2 className={styles.sectionTitle}>錯題回顧（{wrongList.length} 題）</h2>
+                      <ol className="space-y-4 list-decimal pl-6">
+                        {wrongList.map((q, idx) => {
+                          const chosen = answers[q.question_id];
+                          return (
+                            <li key={q.question_id} className="leading-relaxed">
+                              <div className="font-medium">{idx + 1}. {q.question}</div>
+                              <div className="mt-1 text-sm text-neutral-300">你的答案：<b className="text-red-300">{chosen}</b>；正確答案：<b className="text-green-300">{q.answer}</b></div>
+                              <div className="mt-2 grid md:grid-cols-2 gap-2">
+                                {q.options.slice(0, q.option_count).map((opt, i) => {
+                                  const letter = ["A", "B", "C", "D"][i];
+                                  const isCorrect = letter === q.answer;
+                                  const isChosen = letter === chosen;
+                                  return (
+                                    <div key={letter} className={`rounded-lg p-2 border ${isCorrect ? "border-green-700 bg-green-900/20" : isChosen ? "border-red-700 bg-red-900/20" : "border-neutral-700 bg-neutral-800/40"}`}>
+                                      <span className="mr-2 inline-flex items-center justify-center w-6 h-6 rounded-md border border-neutral-600 text-sm">{letter}</span>
+                                      <span className="align-middle">{opt}</span>
+                                    </div>
+                                  );
+                                })}
+                              </div>
+                            </li>
+                          );
+                        })}
+                      </ol>
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          </div>
+        );
+      }
+
+      const root = ReactDOM.createRoot(document.getElementById("root"));
+      root.render(<QuizApp />);
+    </script>
+  </body>
+</html>
