@@ -114,7 +114,7 @@
         async function loadFromServer() {
           try {
             setLoadingServer(true);
-            const res = await fetch("/aviation_questions.json", { cache: "no-store" });
+            const res = await fetch("aviation_questions.json", { cache: "no-store" });
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             const text = await res.text();
             const parsed = parseQuestions(text);
