@@ -43,7 +43,15 @@
         try {
           const data = JSON.parse(text);
           if (!Array.isArray(data)) return null;
-          return data.filter((d) => d && d.subject && d.language && d.question && d.options && d.answer);
+          return data
+            .filter((d) => d && d.subject && d.language && d.question && d.options && d.answer)
+            .map((d) => ({
+              ...d,
+              // 新增：允許每題 0~3 張圖片
+              images: Array.isArray(d.images)
+                ? d.images.filter((u) => typeof u === "string").slice(0, 3)
+                : undefined,
+              }));
         } catch {
           return null;
         }
@@ -63,6 +71,8 @@
           question: "航空器使用人指以航空器從事飛航作業之",
           options: ["自然人", "法人", "政府機關", "全部皆對"],
           answer: "D",
+          // 新增：示範圖片（可刪除）
+          images: ["/demo/sample1.jpg"],
         },
       ];
 
@@ -203,7 +213,7 @@
           <div className={styles.page}>
             <div className={styles.wrap}>
               <header className="flex items-center justify-between mb-6">
-                <h1 className="text-2xl md:text-3xl font-bold">✈️ 題庫測驗練習 Demo</h1>
+                <h1 className="text-2xl md:text-3xl font-bold">✈️ 題庫測驗練習</h1>
                 <div className="flex gap-2 items-center">
                   <label className={`${styles.btn} cursor-pointer`}>
                     上傳題庫 JSON
@@ -252,7 +262,22 @@
                     <span>科目：{selectedSubject} | 語言：{selectedLanguage}</span>
                     <span>第 {index + 1} / {quizSet.length} 題</span>
                   </div>
-                  <h3 className="text-lg font-semibold mb-4 leading-relaxed">{current.question}</h3>
+                  <h3 className="text-lg font-semibold mb-3 leading-relaxed">{current.question}</h3>
+                  {/* 新增：題目圖片列（最多 3 張） */}
+                  {current.images && current.images.length > 0 && (
+                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-4">
+                      {current.images.slice(0,3).map((src, i) => (
+                        <img
+                        key={i}
+                        src={src}
+                        loading="lazy"
+                        alt={`question-${current.question_id}-img-${i+1}`}
+                        className="w-full h-40 object-contain rounded-lg border border-neutral-800 bg-neutral-950"
+                        onError={(e) => { e.currentTarget.style.visibility = 'hidden'; }}
+                        />
+                      ))}
+                      </div>
+                    )}
                   <div className="grid gap-3">
                     {current.options.slice(0, current.option_count).map((opt, i) => {
                       const letter = LETTERS[i];
@@ -294,8 +319,22 @@
                           const chosen = answers[q.question_id];
                           return (
                             <li key={q.question_id} className="leading-relaxed">
-                              <div className="font-medium">{idx + 1}. {q.question}</div>
-                              <div className="mt-1 text-sm text-neutral-300">你的答案：<b className="text-red-300">{chosen}</b>；正確答案：<b className="text-green-300">{q.answer}</b></div>
+                              <div className="font-medium mb-2">{idx + 1}. {q.question}</div>
+                              {/* 新增：錯題圖片列（最多 3 張） */}
+                              {q.images && q.images.length > 0 && (
+                                <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-2">
+                                  {q.images.slice(0,3).map((src, i) => (
+                                    <img
+                                      key={i}
+                                      src={src}
+                                      loading="lazy"
+                                      alt={`wrong-${q.question_id}-img-${i+1}`}
+                                      className="w-full h-32 object-contain rounded-lg border border-neutral-800 bg-neutral-950"
+                                      onError={(e) => { e.currentTarget.style.visibility = 'hidden'; }}
+                                    />
+                                  ))}
+                                  </div>
+                                )}
                               <div className="mt-2 grid md:grid-cols-2 gap-2">
                                 {q.options.slice(0, q.option_count).map((opt, i) => {
                                   const letter = ["A", "B", "C", "D"][i];
