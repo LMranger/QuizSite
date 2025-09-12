@@ -75,13 +75,6 @@
           images: ["/demo/sample1.jpg"],
         },
       ];
-      
-      function preselectFrom(parsed) {
-        const subs = [...new Set(parsed.map(d => String(d.subject||"").trim()))].sort();
-        const langs = [...new Set(parsed.map(d => String(d.language||"").trim()))].sort();
-        if (subs.length) setSelectedSubject(subs[0]);
-        if (langs.length) setSelectedLanguage(langs[0]);
-      }
 
       function QuizApp() {
         const [rawData, setRawData] = useState(null);
@@ -137,7 +130,6 @@
             const parsed = parseQuestions(text);
             if (parsed && parsed.length) {
               setRawData(parsed);
-              preselectFrom(parsed);
               setInQuiz(false);
               setIndex(0);
               setAnswers({});
@@ -168,7 +160,6 @@
             const parsed = parseQuestions(text);
             if (parsed) {
               setRawData(parsed);
-              preselectFrom(parsed);
               setInQuiz(false);
               setIndex(0);
               setAnswers({});
