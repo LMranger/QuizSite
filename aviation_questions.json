@@ -24058,5 +24058,5445 @@
       "38263 10"
     ],
     "answer": "B"
+  },
+    {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012083",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "1",
+    "option_count": 3,
+    "question": "平流層(stratosphere)的特性為何",
+    "options": [
+      "高度上升溫度下降",
+      "平流層底約在35,000呎",
+      "高度上升溫度不變"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012084",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "2",
+    "option_count": 3,
+    "question": "中緯度地區平均對流層(troposphere)的高度為",
+    "options": [
+      "20,000呎",
+      "37,000呎",
+      "45,000呎"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012085",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "3",
+    "option_count": 3,
+    "question": "造成天氣變化的原因為何?",
+    "options": [
+      "各地接收到的太陽能量不同所致",
+      "地表壓力不同所致",
+      "氣團的移動所致"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012086",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "4",
+    "option_count": 3,
+    "question": "如果1,350呎的氣溫是8°C, 依標準大氣之溫度變化 (standard (average) temperature lapse),結冰高度(freezing level)為何?",
+    "options": [
+      "3,350呎",
+      "5,350呎",
+      "9,350 呎"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012087",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "5",
+    "option_count": 3,
+    "question": "通常地面逆溫 (inversion)的成因",
+    "options": [
+      "暖空氣受地型抬升",
+      "冷空氣移動到暖空氣上方或暖空氣移動到的冷空氣下方",
+      "夜間微風時地表輻射冷卻"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012088",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "6",
+    "option_count": 3,
+    "question": "地面為南風, 5000呎吹西南風 , 這樣的差異是",
+    "options": [
+      "高度愈高處, 氣壓梯度力愈大",
+      "地表摩擦力所致",
+      "地表柯氏力(Coioslis force)所致"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012089",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "7",
+    "option_count": 3,
+    "question": "地面風與位於2,000呎高空風之間的關係是",
+    "options": [
+      "兩者風向一樣,因地表摩擦力所致,地面風風速較小",
+      "2000呎高空風之風向平行等壓線(isobars),地面風則是吹跨越等壓線,且風速較小",
+      "2000呎高空風風速較小"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012090",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "8",
+    "option_count": 3,
+    "question": "在北半球，是那一種力造成風向偏右,轉變為平行等壓線(isobars)",
+    "options": [
+      "離心力(Centrifugal)",
+      "氣壓梯度力(Pressure gradient)",
+      "柯氏力(Coioslis force)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012091",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "9",
+    "option_count": 3,
+    "question": "\"露點溫度\"(dew point)的定義",
+    "options": [
+      "定壓下使氣溫下降到空氣內的水汽飽和(saturated)時之溫度",
+      "水汽之凝結(condensation)和蒸發(evaporation)速度相等時",
+      "當氣溫達到露點溫度時,就會形成露水"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012092",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "10",
+    "option_count": 3,
+    "question": "空氣中的水汽含量由下列哪一項決定",
+    "options": [
+      "相對濕度(relative humidity)",
+      "氣溫",
+      "大氣的穩定度(stability of air)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012093",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "11",
+    "option_count": 3,
+    "question": "大氣的穩定度由下列哪一項決定",
+    "options": [
+      "低層風",
+      "垂直大氣的溫度變化(Ambient lapse rate)",
+      "大氣壓力"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012094",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "12",
+    "option_count": 3,
+    "question": "未飽和空氣(Unsaturated air )隨高度的(乾絕熱)溫度變化率為",
+    "options": [
+      "每上升一千呎溫度下降3°C",
+      "每上升一千呎溫度下降2°C",
+      "每上升一千呎溫度下降2.5°C"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012095",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "13",
+    "option_count": 3,
+    "question": "穩定(stable)而潮濕的空氣強制抬升, 通常會形成",
+    "options": [
+      "層狀雲(Stratified clouds )",
+      "直展雲",
+      "層狀雲(Stratified clouds)並有伴隨極小的垂直運動"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012096",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "14",
+    "option_count": 3,
+    "question": "哪一種天氣型態造成積狀雲( cumuliform type clouds), 能見度好,陣雨,及明冰的積冰(clear-type icing)?",
+    "options": [
+      "潮濕及不穩定的大氣及缺乏抬升運動",
+      "乾燥及穩定的大氣及抬升運動",
+      "潮濕及不穩定的大氣及抬升運動"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012097",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "15",
+    "option_count": 3,
+    "question": "雲依其高度與發展分為",
+    "options": [
+      "層狀雲（Stratus）,積狀雲（cumulus）,雨雲(nimbus),卷狀雲(cirrus）",
+      "上升氣流, 鋒面, 溫度下降及降水形成的雲",
+      "高雲族,中雲族,低雲族,直展雲族（vertical development）"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012098",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "16",
+    "option_count": 3,
+    "question": "高雲的組成",
+    "options": [
+      "臭氧（ozone）",
+      "凝結核（condensation nuclei）",
+      "冰晶（ice crystals）"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012099",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "17",
+    "option_count": 3,
+    "question": "哪一種雲帶來的亂流最強",
+    "options": [
+      "塔狀積雲（TCU)",
+      "積雨雲 (CB)",
+      "高積雲(AC)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012100",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "18",
+    "option_count": 3,
+    "question": "通常工業區比較容易有霧, 其主要原因是",
+    "options": [
+      "都市的空氣比較穩定(stabilization)",
+      "空氣中有較多燃燒產物之凝結核(condensation nuclei)",
+      "工業污染造成氣溫上升"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012101",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "19",
+    "option_count": 3,
+    "question": "哪一種天氣型態造成輻射霧( radiation fog)",
+    "options": [
+      "晴空靜風的夜間,地表上方空氣水汽充分",
+      "暖濕的熱帶空氣移動到較冷的海水面",
+      "冷空氣移動到較暖的水域"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012102",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "20",
+    "option_count": 3,
+    "question": "不穩定(unstable)的冷空氣移動到暖水域,會造成",
+    "options": [
+      "積雲(Cumuliform clouds), 亂流,低能見度",
+      "積雲(Cumuliform clouds）, 亂流,能見度良好",
+      "層雲（Stratiform clouds）, 無亂流,低能見度"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012103",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "21",
+    "option_count": 3,
+    "question": "雷雨形成的原因",
+    "options": [
+      "充沛水汽且伴隨積雲",
+      "充沛水汽,伴隨積雲且逆溫( inverted lapse rate)",
+      "充沛水汽之不穩定(unstable)及抬升運動"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012104",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "22",
+    "option_count": 3,
+    "question": "雷雨(thunderstorm)的成熟（mature）期的徵兆為",
+    "options": [
+      "開始下雨",
+      "形成雲的速度加快",
+      "雲裡有很強的亂流"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012105",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "23",
+    "option_count": 3,
+    "question": "雷雨(thunderstorm)的哪一個階段具明顯的下沖氣流（downdrafts）",
+    "options": [
+      "積雲期（Cumulus)",
+      "消散期(Dissipating）",
+      "成熟期（Mature）"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012106",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "24",
+    "option_count": 3,
+    "question": "雷雨(thunderstorm)活動伴隨明顯下沖氣流（downdrafts）的成熟期( mature stage),其特徵為",
+    "options": [
+      "積雨雲頂有明顯的砧狀雲頂(anvil top)",
+      "開始下雨",
+      "形成陣風鋒面(gust front)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012107",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "25",
+    "option_count": 3,
+    "question": "風切(wind shear）的特性為",
+    "options": [
+      "大氣中有臭氣成份（zones）且有幅合現象（convergence)所致",
+      "柯氏力(Coioslis force)在高層及低層大氣不同所致",
+      "伴隨低層大氣的逆溫(inversion),噴射氣流（jet stream),及鋒面帶( frontal zone）的大氣現象"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012108",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "26",
+    "option_count": 3,
+    "question": "精確進場時，風由尾風轉變成頭風，推力應如何調整以保持恆定的指示空速？",
+    "options": [
+      "設較大的推力，進入風切區時增加推力，之後再減低推力",
+      "設較小的推力，進入風切區時減低推力，之後再增加推力",
+      "設較大的推力，進入風切區時減低推力，之後再增加推力"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012109",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "27",
+    "option_count": 3,
+    "question": "爬升或下降時穿越逆溫層或風切區，飛行員應該要注意下例哪一種飛機性能的改變？",
+    "options": [
+      "較高的爬升率和較低的下降率",
+      "突然的空速改變",
+      "突然的推力減少"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012110",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "28",
+    "option_count": 3,
+    "question": "根據下列 TAF，KBNA地面天氣狀況為何？METAR KBNA 211250Z 33018KT 290V260 1/2SM R31/2700FT +SN BLSNFG VV008 00/M03 A2991 RMK RAE42SNB42",
+    "options": [
+      "風向介於290°至360°",
+      "31號跑道上大雪及霧",
+      "12點42分雨停且開始下雪"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012111",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "29",
+    "option_count": 3,
+    "question": "TAF中出現\"VRB\",指風速在下列那一個範圍內",
+    "options": [
+      "3節（knots)或3節以下",
+      "6節或6節以下",
+      "9節或9節以下"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012112",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "30",
+    "option_count": 3,
+    "question": "當能見度大於6英哩時,TAF 的預報方式為",
+    "options": [
+      "6PSM.",
+      "P6SM.",
+      "6SMP."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012113",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "31",
+    "option_count": 3,
+    "question": "根據下列 TAF,1800Z風的狀況為何? KMEM 091740Z 0918/1018 00000KT 1/2SM RAFG OVC005=",
+    "options": [
+      "靜風",
+      "未知",
+      "沒有資料"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012114",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "32",
+    "option_count": 3,
+    "question": "何時SIGMET會發佈？",
+    "options": [
+      "大範圍沙塵暴造成能見度低於3哩",
+      "中度積冰",
+      "地面風30節或以上"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012115",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "33",
+    "option_count": 3,
+    "question": "AIRMETS最大的預測時間為何?",
+    "options": [
+      "2小時",
+      "4小時",
+      "6小時"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012116",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "34",
+    "option_count": 3,
+    "question": "AIRMETs何時會重新發佈？",
+    "options": [
+      "只在整點過後15分鐘",
+      "前一AIRMET失效後15分鐘",
+      "每6小時"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012117",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "35",
+    "option_count": 3,
+    "question": "如何讓空氣內水汽增加?",
+    "options": [
+      "昇華及凝結",
+      "蒸發及凝結",
+      "昇華及蒸發"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012118",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "36",
+    "option_count": 3,
+    "question": "在北半球，風向受到哪一種影響",
+    "options": [
+      "受柯氏力(Coioslis force)影響偏向右",
+      "受摩擦力影響偏向右",
+      "受柯氏力(Coioslis force)影響偏向左"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012119",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "37",
+    "option_count": 3,
+    "question": "下列敘述何者正確",
+    "options": [
+      "高壓或脊線(ridge)為上升氣流形成的",
+      "低壓或槽線(trough)為下降氣流形成的",
+      "高壓或脊線(ridge)為下降氣流形成的"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012120",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "38",
+    "option_count": 3,
+    "question": "如果你在北半球飛向低氣壓",
+    "options": [
+      "風由左邊來,且風速會減弱.",
+      "風由左邊來,且風速會增加.",
+      "風由右邊來,且風速會減弱."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012121",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "39",
+    "option_count": 3,
+    "question": "在北半球，越野飛行(cross-country)如果有左側風表示",
+    "options": [
+      "飛行目的地天氣不佳",
+      "飛行出發地天氣不佳",
+      "缺乏氣壓資料, 無法判斷天氣好壞"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012122",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "40",
+    "option_count": 3,
+    "question": "哪一種力阻礙風由高壓吹向低壓",
+    "options": [
+      "柯氏力(Coioslis force)",
+      "地表摩擦力",
+      "氣壓梯度力(Pressure gradient force)"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012123",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "41",
+    "option_count": 3,
+    "question": "在北半球，低氣壓的特性為",
+    "options": [
+      "反氣旋式氣流而且伴隨下降的空氣",
+      "受柯氏力影響為氣旋式流動",
+      "受柯氏力影響為反氣旋式流動"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012124",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "42",
+    "option_count": 3,
+    "question": "對流層頂的特性為",
+    "options": [
+      "對流層頂高度全球一致",
+      "環境溫度變化率驟變",
+      "雲頂發展極限位置"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012125",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "43",
+    "option_count": 3,
+    "question": "標準大氣於 一萬呎時的溫度是",
+    "options": [
+      "–5°C.",
+      "–15°C.",
+      "+5°C."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012126",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "44",
+    "option_count": 3,
+    "question": "標準大氣於海平面的溫度及氣壓是",
+    "options": [
+      "15°C 及 29.92吋 水銀柱高",
+      "59°F 及 101 3.2吋 水銀柱高",
+      "15°C 及 29.92 百帕"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012127",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "45",
+    "option_count": 3,
+    "question": "標準大氣於 兩萬呎時的溫度是",
+    "options": [
+      "–15°C.",
+      "–20°C.",
+      "–25°C."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012128",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "46",
+    "option_count": 3,
+    "question": "天空出現莢狀高積雲（ lenticular altocumulus ）表示",
+    "options": [
+      "靜風",
+      "很強的亂流",
+      "嚴重積冰（icing conditions）"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012129",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "47",
+    "option_count": 3,
+    "question": "哪一種天氣型態造成地面逆溫（inversion）",
+    "options": [
+      "夜間且天空晴朗,微風或靜風造成的",
+      "地表加熱後快速的傳送到不穩定大氣造成的",
+      "大範圍的積雲且雲底的高度一致"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012130",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "48",
+    "option_count": 3,
+    "question": "哪一種關於平流霧（advection fog）的敘述正確",
+    "options": [
+      "緩慢形成,快速消散.",
+      "只在夜間或日出時形成的",
+      "無論白天或夜間都有可能形成而且比輻射霧（ radiation fog）持續的時間久"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012131",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "49",
+    "option_count": 3,
+    "question": "決定天空中形成層雲(stratiform)或積雲(cumuliform)的主要原因是",
+    "options": [
+      "抬升方式",
+      "大氣的穩定度(stability)",
+      "空氣抬升時的溫度"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012132",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "50",
+    "option_count": 3,
+    "question": "有關對流(convective circulation)形成的原因為何?",
+    "options": [
+      "冷空氣下降強,導致熱空氣上升",
+      "熱空氣因其密度較小而上升",
+      "地面熱空氣較冷空氣多, 且因熱空氣密度較小產生上升運動"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012133",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "51",
+    "option_count": 3,
+    "question": "雷雨的\"積雲階段(cumulus stage)\",其特性為何",
+    "options": [
+      "滾軸雲 (Roll cloud)",
+      "連續的上升氣流",
+      "開始下雨"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012134",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "52",
+    "option_count": 3,
+    "question": "哪一種危害性天氣夾帶強風, 冰雹(hail)及龍捲風(tornadoes)?",
+    "options": [
+      "緩慢移動的暖鋒(warm fronts）",
+      "颮線(Squall Line)",
+      "快速移動的囚錮鋒（occluded fronts）"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012135",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "53",
+    "option_count": 3,
+    "question": "雷雨產生的亂流發生位置為何 ?",
+    "options": [
+      "亂流可以延伸至雷雨雲外 50 哩範圍內",
+      "亂流只有風發生在積雨雲底及水平方向5哩範圍內",
+      "亂流可以延伸至雷雨雲外20哩範圍內"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012136",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "54",
+    "option_count": 3,
+    "question": "根據下列 METAR,預估對流雲(convective-type cumuliform clouds)底高度為何?KTUS … 08004KT 4SM HZ ….. 26/04 A2995 RMK RAE36",
+    "options": [
+      "4,400 呎",
+      "8,800 呎",
+      "17,600 呎"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012137",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "55",
+    "option_count": 3,
+    "question": "地面天氣圖（Surface Analysis Chart)上相等的海平面氣壓值（sea level pressure）的連出來的線稱為",
+    "options": [
+      "等壓線 (isobars)",
+      "等偏角線 (isogons)",
+      "毫巴(millibars)"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012138",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "56",
+    "option_count": 3,
+    "question": "地面天氣圖（Surface Analysis Chart)上,等壓線 (isobars)較密集表示",
+    "options": [
+      "氣壓梯度(pressure gradient)較小",
+      "氣壓梯度(pressure gradient)較大",
+      "溫度梯度（temperature gradient)較大"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012139",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "57",
+    "option_count": 3,
+    "question": "TAF 中 \"P6SM\" 表示,能見度大於",
+    "options": [
+      "6 海浬",
+      "6 英哩",
+      "6 公里"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012140",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "58",
+    "option_count": 3,
+    "question": "哪一種天氣資料可以提供落地時機場的天氣資料?",
+    "options": [
+      "低層大氣顯著危害天氣圖（Low-level Prog Chart）",
+      "雷達天氣圖（Radar Summary and weather depiction charts）",
+      "TAF"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012141",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "59",
+    "option_count": 3,
+    "question": "\"VC\"表示機場附近的天氣資料,其範圍是?",
+    "options": [
+      "機場附近8到16公里的範圍",
+      "機場中心至其附近8公里的範圍",
+      "機場附近16公里以外的範圍"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012142",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "60",
+    "option_count": 3,
+    "question": "根據下列 METAR,12日 0230Z 風速為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+    "options": [
+      "25節",
+      "17節",
+      "50節"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012143",
+    "group_id": "1",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "61",
+    "option_count": 3,
+    "question": "根據下列 METAR,12日0230Z 能見度為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+    "options": [
+      "1500公尺",
+      "1500呎",
+      "8000公尺"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012144",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "62",
+    "option_count": 3,
+    "question": "根據下列 METAR,12日0230Z 雲幕高（Ceiling)為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+    "options": [
+      "1200呎",
+      "9000呎",
+      "2500呎"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012145",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "63",
+    "option_count": 3,
+    "question": "根據下列 METAR,12日 0230Z 露點溫度（Dew Point Temperature）為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+    "options": [
+      "24°C",
+      "27°C",
+      "30°C"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012146",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "64",
+    "option_count": 3,
+    "question": "根據下列 METAR,12日 0230Z 溫度為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+    "options": [
+      "24度C",
+      "27度F",
+      "27度C"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012147",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "65",
+    "option_count": 3,
+    "question": "根據下列 METAR,12日 0230Z 高度表撥值(QNH)為何? RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA=",
+    "options": [
+      "995 mb",
+      "27吋 水銀汞柱高(in-Hg)",
+      "1012 mb"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012148",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "66",
+    "option_count": 3,
+    "question": "所有天氣的自然變化過程(physical process), 都是來自於，或是都會伴隨著產生",
+    "options": [
+      "空氣的移動",
+      "氣壓的壓差",
+      "熱交換"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012149",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "67",
+    "option_count": 3,
+    "question": "造成各個氣象觀測站間高度表撥定值(QNH)不同的原因為何",
+    "options": [
+      "地表受熱不均勻",
+      "地表高低之不同",
+      "科氏力"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012150",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "68",
+    "option_count": 3,
+    "question": "離地表5000呎高度的風向是西南風，但地表的風向是南風。此一風向差異的最主要原因是",
+    "options": [
+      "高高度的壓差梯度較大",
+      "風與地表之間的摩擦",
+      "地表的科氏力較強"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012151",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "69",
+    "option_count": 3,
+    "question": "與對流循環有關的海風是由何所造成的",
+    "options": [
+      "溫暖、且密度較大的空氣自海上流向內陸",
+      "水吸收及輻射熱的速度較陸地為快",
+      "冷而密度較大的空氣自海上流向內陸"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012152",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "70",
+    "option_count": 3,
+    "question": "上昇熱氣流的發展需仰賴",
+    "options": [
+      "反時鐘方向旋轉的循環",
+      "逆溫",
+      "太陽光加熱"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012153",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "71",
+    "option_count": 3,
+    "question": "兩個不同氣團間的交界面稱做",
+    "options": [
+      "鋒面減弱(frontolysis)",
+      "鋒面形成(frontogenesis)",
+      "鋒面"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012154",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "72",
+    "option_count": 3,
+    "question": "飛越鋒面後一定會發生的天氣現象改變是",
+    "options": [
+      "風向",
+      "降雨類型",
+      "氣團的穩定度"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012155",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "73",
+    "option_count": 3,
+    "question": "跨越鋒面最容易注意到的不連貫性是",
+    "options": [
+      "溫度改變",
+      "雲的覆蓋面增加",
+      "相對濕度增加"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012156",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "74",
+    "option_count": 3,
+    "question": "如果在你打算落地的機場附近有雷雨，則在你的進場落地過程中預期會遭遇到什麼樣的危險天氣現象？",
+    "options": [
+      "降雨造成的靜電(precipitation static)",
+      "風切亂流",
+      "穩定的降雨"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012157",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "75",
+    "option_count": 3,
+    "question": "通常生成於冷鋒前端的一條非鋒面性狹窄的雷雨帶叫做什麼",
+    "options": [
+      "鋒前系統(prefrontal system)",
+      "颮線(squall line)",
+      "乾燥線(dry line)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012158",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "76",
+    "option_count": 3,
+    "question": "雷雨的生成需要些什麼條件？",
+    "options": [
+      "濕度大、上升力(lifting force)以及不穩定的狀況",
+      "濕度大、溫度高以及積雲(cumulus clouds)",
+      "上升力(lifting force)、潮濕的空氣以及大量覆蓋的雲(extensive cloud cover)"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012159",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "77",
+    "option_count": 3,
+    "question": "在雷雨的生命週其中，哪一個階段最顯著的特徵是下沈氣流(downdrafts)？",
+    "options": [
+      "累積期(cumulus)",
+      "消散期(dissipating)",
+      "成熟期(mature)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012160",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "78",
+    "option_count": 3,
+    "question": "雷雨在哪個階段達到其最大強度",
+    "options": [
+      "成熟期(mature stage)",
+      "下沈氣流期(downdraft stage)",
+      "積雲期(cumulus stage)"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012161",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "79",
+    "option_count": 3,
+    "question": "哪一項特徵通常與雷雨的積雲期(cumulus stage)有關？",
+    "options": [
+      "捲軸雲(roll cloud)",
+      "持續的上升氣流(updraft)",
+      "經常發生閃電"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012162",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "80",
+    "option_count": 3,
+    "question": "哪一項天氣現象代表雷雨成熟期(mature stage)的開始？",
+    "options": [
+      "砧狀雲(anvil top)的出現",
+      "降雨(precipitation)開始落下",
+      "雲的成長率最大時"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012163",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "81",
+    "option_count": 3,
+    "question": "通常會對飛機產生最強烈危害的雷雨是",
+    "options": [
+      "颮線(squall line)雷雨",
+      "穩定狀態的雷雨(steady-state thunderstorms)",
+      "暖鋒雷雨"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012164",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "82",
+    "option_count": 3,
+    "question": "哪一項天氣現象總是會伴隨著表雷雨發生？",
+    "options": [
+      "閃電",
+      "大雨",
+      "冰雹"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012165",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "83",
+    "option_count": 3,
+    "question": "在飛行中要形成結構性結冰(structural icing)的一項必須的條件是",
+    "options": [
+      "溫度與露點溫度(dewpoint)的差距小",
+      "層狀雲(stratiform cloud)",
+      "可見水氣(visible moisture)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012166",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "84",
+    "option_count": 3,
+    "question": "在哪種環境下飛機的結構性結冰(structural icing)會有最大的累積率？",
+    "options": [
+      "積雲(cumulus clouds)且溫度低於零度",
+      "凍毛雨(freezing drizzle)",
+      "凍雨(freezing rain)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012167",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "85",
+    "option_count": 3,
+    "question": "在地表有冰霰(ice pellet)，則證明",
+    "options": [
+      "該地區有雷雨",
+      "該區曾有冷鋒通過",
+      "其上空有逆溫現象(temperature inversion)且更高之上空有下凍雨(freezing rain)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012168",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "86",
+    "option_count": 3,
+    "question": "一種狀如杏仁或鏡片狀的雲，看來似乎是靜止的，但其中可能存有超過50節風的雲名為",
+    "options": [
+      "不活躍的鋒面雲(inactive frontal cloud)",
+      "漏斗雲(funnel cloud)",
+      "筴狀雲(lenticular cloud)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012169",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "87",
+    "option_count": 3,
+    "question": "一種在會出現在山岳波(mountain wave)頂端，靜止的鏡片狀雲名為",
+    "options": [
+      "乳房狀高積雲(mamatocumulus cloud)",
+      "靜止的筴狀雲(lenticular cloud)",
+      "捲軸雲(roll cloud)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012170",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "88",
+    "option_count": 3,
+    "question": "當有超過40節的風在下列何狀況下即應預期會有山岳波亂流(mountain wave turbulence)",
+    "options": [
+      "當風橫向吹過山脊，且氣流穩定時",
+      "當風向下吹進山谷，且氣流不穩定時",
+      "當風的吹向與山嶺平行，且氣流穩定時"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012171",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "89",
+    "option_count": 3,
+    "question": "風切(wind shear)會發生在何處？",
+    "options": [
+      "只有在高高度",
+      "只有在低高度",
+      "在所有高度的任何方向"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012172",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "90",
+    "option_count": 3,
+    "question": "當地表以上2,000到4,000英呎高度的風速至少有多大時，飛行員即可預期在逆溫(temperature inversion)層中會有風切區(wind-shear zone)",
+    "options": [
+      "10節",
+      "15節",
+      "25節"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012173",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "91",
+    "option_count": 3,
+    "question": "下列何情況中預期會有嚴重的風切？",
+    "options": [
+      "當穩定的空氣越過山時，會以層流的方式形成莢狀雲(lenticular cloud)",
+      "在低空逆溫(temperature inversion),層、鋒面區域(frontal zones)及晴空亂流(clear air turbulence)區",
+      "在鋒面過境後形成層積雲(stratocumulus)顯示有機械混合層(mechanical mixing)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012174",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "92",
+    "option_count": 3,
+    "question": "若溫度與露點溫度間的差距很小且該差距在持續縮小中，在華氏62度的情形下，最容易生成哪種型態的天氣",
+    "options": [
+      "凍雨(freezing precipitation)",
+      "雷雨",
+      "霧或低雲"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012175",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "93",
+    "option_count": 3,
+    "question": "『露點溫度』代表什麼意思？",
+    "options": [
+      "在該溫度下凝結(condensation)率等於蒸發(evaporation)率",
+      "在該溫度下一定會生成露(dew)",
+      "將空氣降溫，降到使該空氣達到飽和(saturated)時的溫度"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012176",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "94",
+    "option_count": 3,
+    "question": "空氣中能夠含水蒸氣量(water vapor)的多寡取決於",
+    "options": [
+      "露點溫度(dewpoint)",
+      "氣溫",
+      "空氣之穩定度"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012177",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "95",
+    "option_count": 3,
+    "question": "什麼作用可將水汽(moisture)加入未飽和(unsaturated)的空氣中",
+    "options": [
+      "蒸發(evaporation)及昇華(sumblimation)",
+      "加熱(heating)及凝結(condensation)",
+      "過飽和(supersaturation)及蒸發(evaporation)"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012178",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "96",
+    "option_count": 3,
+    "question": "什麼情形下會生成霜？",
+    "options": [
+      "當小滴的水汽(moisture)落在溫度在冰點(freezing)或低於冰點的表面上",
+      "當小滴的水汽(moisture)所落下的表面，其溫度等於或低於其周邊鄰近空氣的露點溫度，且該露點溫度(dewpoint)低於冰點",
+      "當小滴的水汽(moisture)所落下的表面，其周邊鄰近空氣的溫度等於或低於低於冰點"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012179",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "97",
+    "option_count": 3,
+    "question": "什麼時候一定會生成雲、霧、或是露",
+    "options": [
+      "水蒸氣凝結(condense)時",
+      "有水蒸氣時",
+      "相對濕度(relative humidity)達到100%時"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012180",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "98",
+    "option_count": 3,
+    "question": "哪種霧會有低空亂流(low-level turbulence)及危險的結冰現象？",
+    "options": [
+      "下雨造成的霧(rain-induced fog)",
+      "上坡霧(upslope fog)",
+      "蒸汽霧(steam fog)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012181",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "99",
+    "option_count": 3,
+    "question": "在哪種情況下最容易形成平流霧 (advection fog) ？",
+    "options": [
+      "山坡迎風面上的一個溫暖潮濕的氣團 (air mass)",
+      "在冬天裡一個氣團從海岸移向內陸",
+      "一股微風將較冷的空氣吹到海上"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012182",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "100",
+    "option_count": 3,
+    "question": "哪種情況最易導致輻射霧 (radiation fog) 的生成？",
+    "options": [
+      "在清澈無風的夜裡，溫暖潮濕的空氣處於低平地區的上空",
+      "潮濕的熱帶空氣移到冷的近海水域 (offshore water) 之上",
+      "冷空氣移到較暖的空氣之上"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012183",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "101",
+    "option_count": 3,
+    "question": "何種霧需要有風才會生成？",
+    "options": [
+      "輻射霧 (radiation fog)及冰霧 (ice fog)",
+      "蒸氣霧 (steam fog)及地面霧(ground fog)",
+      "平流霧 (advection fog)及上坡霧 (upslope fog)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012184",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "102",
+    "option_count": 3,
+    "question": "雲是依照什麼來分成高雲族,中雲族,低雲族,直展雲族？",
+    "options": [
+      "外型",
+      "高度",
+      "組成成分"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012185",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "103",
+    "option_count": 3,
+    "question": "\"nimbus\"這個用來給雲命名的字尾，是什麼意思？",
+    "options": [
+      "垂直向上發展的雲",
+      "雨雲",
+      "含有冰霰(ice pellet)的中層雲"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012186",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "104",
+    "option_count": 3,
+    "question": "形成積雨雲(cumulonimbus)所必須的條件為上升作用(lifting action)以及",
+    "options": [
+      "含有過多凝結核(condensation nuclei)的不穩定空氣",
+      "不穩定的潮濕空氣",
+      "穩定或是不穩定的空氣"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012187",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "105",
+    "option_count": 3,
+    "question": "哪種雲會有最嚴重的亂流(turbulence)？",
+    "options": [
+      "塔狀積雲(towering cumulus)",
+      "積雨雲(cumulonimbus)",
+      "雨層雲(nimbostratus)"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012188",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "106",
+    "option_count": 3,
+    "question": "哪種雲顯示有對流所造成的亂流(convective turbulence)？",
+    "options": [
+      "卷雲(cirrus clouds)",
+      "雨層雲(nimbostratus clouds)",
+      "塔狀積雲(towering cumulus clouds)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012189",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "107",
+    "option_count": 3,
+    "question": "若地面空氣溫度為華氏82度，而露點溫度為華氏38度，則飛行員可預期積狀雲(cumuliform clouds)的雲底距離地面高度大約為多少？",
+    "options": [
+      "地面上(AGL) 9,000英尺",
+      "地面上(AGL) 10,000英尺",
+      "地面上(AGL) 11,000英尺"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012190",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "108",
+    "option_count": 3,
+    "question": "若從海平面算起(MSL)1,000英尺的地面空氣溫度為華氏70度，而露點溫度為華氏48度，則積雲(cumulus clouds)的雲底距離地面高度大約為多少？",
+    "options": [
+      "從海平面算起(MSL) 4,000英尺",
+      "從海平面算起(MSL) 5,000英尺",
+      "從海平面算起(MSL) 6,000英尺"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012191",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "109",
+    "option_count": 3,
+    "question": "穩定空氣的特徵為何？",
+    "options": [
+      "層狀雲 (stratiform clouds)",
+      "能見度(visibility) 無限大",
+      "積雲(cumulus clouds)"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012192",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "110",
+    "option_count": 3,
+    "question": "高空風預測(Winds Aloft Forecast)所用之數值為何？",
+    "options": [
+      "磁向(magnetic direction)及節(knots)",
+      "磁向(magnetic direction)及每小時英哩(miles per hour)",
+      "真向(true direction)及節(knots)"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012193",
+    "group_id": "1",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "111",
+    "option_count": 3,
+    "question": "(參閱chart 6 )ZGGG 18,000英呎高空風的預報為何？",
+    "options": [
+      "真向(true)260度，速度10節",
+      "真向(true)23度，速度6節",
+      "磁向(magnetic)235度，速度6節最大陣風(gust)到16節"
+    ],
+    "answer": "A",
+     "images": [
+      "img/A24_chart6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012194",
+    "group_id": "2",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "112",
+    "option_count": 3,
+    "question": "(參閱chart 6 )ZSSS附近29,000英呎高空風及溫度的預報為何？",
+    "options": [ 
+      "磁向(magnetic)023度，速度53節，溫度攝氏47度",
+      "真向(true)300度，速度70節，溫度攝氏負35度",
+      "真向(true)235度，速度34節，溫度攝氏負7度"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_chart6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012196",
+    "group_id": "2",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "113",
+    "option_count": 3,
+    "question": "(參閱figure 6 ), 請問12小時顯著天氣預報圖(Significant Weather Prognostic Chart)上，在加州南部的天氣標示(weather symbol)代表什麼",
+    "options": [
+      "中度亂流，從地面到18,000 英呎",
+      "頂端達到18,000 英呎的雷雨",
+      "晴空亂流下限是18,000 英呎"
+    ],
+    "answer": "A",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012197",
+    "group_id": "3",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "114",
+    "option_count": 3,
+    "question": "(參閱figure 6 ), 在24小時顯著天氣預報圖(Significant Weather Prognostic Chart)上，奧克拉荷馬(Oklahoma)州東北部的結冰層高度是多少？",
+    "options": [
+      "4,000 英呎",
+      "8,000 英呎",
+      "10,000 英呎"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012198",
+    "group_id": "4",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "115",
+    "option_count": 3,
+    "question": "(參閱figure 6 ), 飛行員如何善用顯著天氣預報圖(Significant Weather Prognostic Chart)？",
+    "options": [
+      "用在所有高度上做綜合性的考量",
+      "用以決定應當避讓之區域(結冰層及亂流)",
+      "用以分析現有的鋒面活動及雲層之覆蓋面積"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012199",
+    "group_id": "5",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "116",
+    "option_count": 3,
+    "question": "(參閱figure 6 ) 位於西部伴隨著冷鋒的低壓預測動向為",
+    "options": [
+      "以30節的速度朝東移動",
+      "以12節的速度朝東北移動",
+      "以30節的速度朝東南移動"
+    ],
+    "answer": "A",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012200",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "117",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) 顯著天氣報告(SIGMET)是對哪些飛機發布的，有關危害天氣狀況的警告？",
+    "options": [
+      "僅針對小飛機",
+      "僅針對大飛機",
+      "所有的飛機"
+    ],
+    "answer": "C",
+    "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012201",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "118",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) N45W170之亂流強度為何？",
+    "options": [
+      "輕度亂流",
+      "中度亂流",
+      "強烈亂流"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012202",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "119",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) N45W170噴射氣流狀況為何？",
+    "options": [
+      "於FL280有噴射氣流強度100kts",
+      "於FL370 有噴射氣流強度110kts",
+      "於FL360有噴射氣流強度100kts"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012203",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "120",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) HIGH LEVEL SIGWX CHART預報有效時間為何？",
+    "options": [
+      "2010年5月06日00Z世界標準時",
+      "2010年5月07日00Z世界標準時",
+      "2010年5月06日00台北地方時"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012204",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "121",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) N15E140之標記？",
+    "options": [
+      "Turbulence level FL500",
+      "CIELING level FL500",
+      "tropopause level FL500"
+    ],
+    "answer": "C",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012205",
+    "group_id": "3",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "122",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) 之圖表有效高度為？",
+    "options": [
+      "FL250以下",
+      "FL250-FL650",
+      "全部皆對"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012206",
+    "group_id": "4",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "123",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) N30E140 之CB雲頂高為何？",
+    "options": [
+      "FL 250",
+      "FL430",
+      "由地表海平面至FL320"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012207",
+    "group_id": "5",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "124",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) 於N42W125之標記所指為何？",
+    "options": [
+      "輕度C.A.T.",
+      "中度C.A.T.",
+      "強度C.A.T."
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012208",
+    "group_id": "6",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "125",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) S10E110 之雲頂高為？",
+    "options": [
+      "FL250",
+      "SEA level-FL320",
+      "FL530"
+    ],
+    "answer": "C",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012209",
+    "group_id": "7",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "126",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) 於N40W130之標記為何意義？",
+    "options": [
+      "亂流層高FL360",
+      "FL350之噴射氣流強度100kts",
+      "雲系之移動方向"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012210",
+    "group_id": "8",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "127",
+    "option_count": 3,
+    "question": "(參閱figure 1 ) 請問於本圖中是否可以找到輕度亂流的資料？",
+    "options": [
+      "無輕度亂流之標示",
+      "N40E164之亂流為輕度亂流",
+      "全部皆非"
+    ],
+    "answer": "A",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012211",
+    "group_id": "9",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "128",
+    "option_count": 4,
+    "question": "(參閱figure 1 ) S25E160標記之亂流高度為何？",
+    "options": [
+      "FL250-FL450",
+      "FL350-FL470",
+      "FL250-FL500",
+      "全部皆非"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012212",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "129",
+    "option_count": 3,
+    "question": "(參閱figure 2 ) ，請問200hPa之標準海平面氣壓高度為何？",
+    "options": [
+      "FL350",
+      "FL390",
+      "FL200"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig2.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012213",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "130",
+    "option_count": 3,
+    "question": "(參閱figure B)'對流層頂之高度為何?",
+    "options": [
+      "30,000呎",
+      "40,000呎",
+      "50,000呎"
+    ],
+    "answer": "A",
+    "images": ["img/A24_FigB.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012214",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "131",
+    "option_count": 4,
+    "question": "(參閱figure C)符號所示為何?",
+    "options": [
+      "地區性低壓其高度27,000呎",
+      "地區性結冰層其高度 27,000呎",
+      "該處對流層頂高度為 27,000呎",
+      "對流層頂高度最高 27,000呎"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigC.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012215",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "132",
+    "option_count": 3,
+    "question": "(參閱figure D)顯示對流層頂之高度為何?",
+    "options": [
+      "30,000呎",
+      "40,000呎",
+      "50,000呎"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigD.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012216",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "133",
+    "option_count": 4,
+    "question": "(參閱figure E )符號所示為何?",
+    "options": [
+      "地區性高壓其高度43,000呎",
+      "地區性結冰層其高度43,000呎",
+      "該處對流層頂高度為 43,000呎",
+      "對流層頂高度最高43,000呎"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigE.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012217",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "134",
+    "option_count": 3,
+    "question": "(參閱figure L )符號所示之積冰程度為何?",
+    "options": [
+      "輕度積冰",
+      "中度積冰",
+      "重度積冰"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigL.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012218",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "135",
+    "option_count": 3,
+    "question": "(參閱figure N )符號所示之亂流程度為何?",
+    "options": [
+      "輕度亂流",
+      "中度亂流",
+      "強烈亂流"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigN.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012219",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "136",
+    "option_count": 3,
+    "question": "(參閱figure O)符號所示之亂流程度為何?",
+    "options": [
+      "輕度亂流",
+      "中度亂流",
+      "強烈亂流"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigO.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012220",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "137",
+    "option_count": 3,
+    "question": "(參閱figure G)符號所示之雲底高度為何?",
+    "options": [
+      "38,000呎",
+      "27,000呎",
+      "未知"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigG.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012221",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "138",
+    "option_count": 3,
+    "question": "(參閱figure H)符號所示之雲底高度為何?",
+    "options": [
+      "38,000呎",
+      "27,000呎",
+      "未知"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigH.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012222",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "139",
+    "option_count": 3,
+    "question": "(參閱figure G)符號所示之雲頂高度為何?",
+    "options": [
+      "38,000呎",
+      "27,000呎",
+      "未知"
+    ],
+    "answer": "A",
+    "images": ["img/A24_FigG.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012223",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "140",
+    "option_count": 3,
+    "question": "(參閱figure I )符號所示之雲底高度為何?",
+    "options": [
+      "38,000呎",
+      "28,000呎",
+      "未知"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigI.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012224",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "141",
+    "option_count": 3,
+    "question": "(參閱figure K)符號所示之積冰程度為何?",
+    "options": [
+      "輕度積冰",
+      "中度積冰",
+      "重度積冰"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigK.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012225",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "142",
+    "option_count": 3,
+    "question": "(參閱figure P)'高空風如下圖表示風速多少？",
+    "options": [
+      "110Kts",
+      "115Kts",
+      "25Kts"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigP.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012226",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "143",
+    "option_count": 4,
+    "question": "(參閱figure Q)高空預測圖中如圖之數字係代表：",
+    "options": [
+      "風速",
+      "溫度",
+      "高度",
+      "高空雲量"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigQ.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012227",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "144",
+    "option_count": 4,
+    "question": "(參閱figure 3)依據所提供之SIGNIFICANT WEATHER PROGNOSTIC CHART,_自RCTP飛往ZSQD將遭遇到：",
+    "options": [
+      "中度積冰",
+      "中度亂流",
+      "重度積冰",
+      "強烈亂流"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig3.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012228",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "145",
+    "option_count": 4,
+    "question": "(參閱ffigure 3), ROAH 上空雲層之狀況為何",
+    "options": [
+      "240-360 hPa之間",
+      "240-360毫米之間",
+      "從10,000公尺-25,000公尺之間",
+      "10,000-25,000英尺之間"
+    ],
+    "answer": "D",
+    "images": [
+      "img/A24_Fig3.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012229",
+    "group_id": "4",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "146",
+    "option_count": 4,
+    "question": "(參閱figure 3) 之有效時間，降落ZGGG，將遭遇到ISOL CB意謂",
+    "options": [
+      "CB呈線狀排列",
+      "CB滿佈所標示之全區",
+      "CB呈孤立狀",
+      "CB在減弱中"
+    ],
+    "answer": "C",
+    "images": [
+      "img/A24_Fig3.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012230",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "147",
+    "option_count": 4,
+    "question": "(參閱figure 4),所提供之300 hPa PROGNOSTIC CHART,此圖氣象與何一高度最為接近：",
+    "options": [
+      "40,000英尺",
+      "35,000英尺",
+      "30,000英尺",
+      "25,000英尺"
+    ],
+    "answer": "C",
+    "images": [
+      "img/A24_Fig4.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "中文",
+    "question_id": "0012231",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "148",
+    "option_count": 4,
+    "question": "(參閱figure 4),所提供之300 hPa PROGNOSTIC CHART,請以內插法，推算RCTP之高空資料應為",
+    "options": [
+      "風速45KT，溫度-30℉",
+      "風速45KT，溫度-30℃",
+      "風速95KT，溫度-30℉",
+      "風速95KT，溫度-30℃"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig4.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012083",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "149",
+    "option_count": 3,
+    "question": "A characteristic of the stratosphere is",
+    "options": [
+      "An overall decrease of temperature with an increase in altitude.",
+      "A relatively even base altitude of approximately 35,000 feet",
+      "Relatively small changes in temperature with an increase in altitude."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012084",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "150",
+    "option_count": 3,
+    "question": "The average height of the troposphere in the middle latitude is",
+    "options": [
+      "20,000 FT",
+      "37,000 FT",
+      "45,000 FT"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012085",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "151",
+    "option_count": 3,
+    "question": "The primary cause of all changes in the earth’s weather is",
+    "options": [
+      "variation of solar energy received by the Earth’s regions",
+      "changes in air pressure over the Earth’s surface",
+      "movement of the air mass"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012086",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "152",
+    "option_count": 3,
+    "question": "If the air temperature is + 8 degree at an elevation of 1,350 feet and a standard (average) temperature lapse rate exists, what will be the approximate freezing level?",
+    "options": [
+      "3,350 ft MSL",
+      "5,350 ft MSL",
+      "9,350 ft MSL"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012087",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "153",
+    "option_count": 3,
+    "question": "A common type of ground or surface based temperature inversion is that which is produced by",
+    "options": [
+      "warm air being lifted rapidly aloft in the vicinity of mountainous terrain.",
+      "the movement of colder air over warm air, or the movement of warm air under cold air.",
+      "ground radiation on clear, cool nights when the wind is light."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012088",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "154",
+    "option_count": 3,
+    "question": "Winds at 5,000 ft AGL on a particular flight are southwesterly while most of the surface winds are southerly. this difference in direction is primarily due to",
+    "options": [
+      "a stronger pressure gradient at high altitudes.",
+      "friction between the wind and the surface.",
+      "Stronger Coioslis force at the surface."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012089",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "155",
+    "option_count": 3,
+    "question": "What relationship exists between the winds at 2,000 feet above the surface and the surface winds?",
+    "options": [
+      "The winds at 2,000 ft and the surface winds flow in the same direction, but the surface winds are weaker due to friction.",
+      "The winds at 2,000 ft tend to parallel the isobars while the surface winds cross the isobars at an angle toward lower pressure and are weaker.",
+      "The surface winds tend to veer to the right of the winds at 2,000 ft and are usually weaker."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012090",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "156",
+    "option_count": 3,
+    "question": "Which force, in the North Hemisphere, acts at a right angle to the wind and deflects it to the right until parallel to the isobars?",
+    "options": [
+      "Centrifugal",
+      "Pressure gradient",
+      "Coriolis"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012091",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "157",
+    "option_count": 3,
+    "question": "To which meteorological condition does the term \"dew point”refer?",
+    "options": [
+      "The temperature to which air must be cooled to become saturated.",
+      "The temperature at which condensation and evaporation are equal.",
+      "The temperature at which dew will always form."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012092",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "158",
+    "option_count": 3,
+    "question": "The amount of water vapor which air can hold largely depends on",
+    "options": [
+      "relative humidity",
+      "air temperature",
+      "stability of air"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012093",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "159",
+    "option_count": 3,
+    "question": "Stability can be determined from which measurement of the atmosphere?",
+    "options": [
+      "Low-level winds",
+      "Ambient lapse rate",
+      "Atmospheric pressure."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012094",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "160",
+    "option_count": 3,
+    "question": "Unsaturated air flowing up slope will cool at the rate of approximately (dry lapse rate)",
+    "options": [
+      "3蚓 per 1,000 ft.",
+      "2蚓 per 1,000 ft.",
+      "2.5 蚓 per 1,000 ft."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012095",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "161",
+    "option_count": 3,
+    "question": "What type of clouds will be formed if very stable moist air is forced up slope?",
+    "options": [
+      "Stratified clouds",
+      "Vertical clouds with increasing height.",
+      "Stratified clouds with little vertical development."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012096",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "162",
+    "option_count": 3,
+    "question": "Which of the following combinations of weather producing variables would likely result in cumuliform type clouds, good visibility, rain showers and possible clear-type icing in clouds?",
+    "options": [
+      "Unstable, moist air, and no lifting mechanism.",
+      "Stable, dry air, and orographic lifting.",
+      "unstable, moist air, and orographic lifting."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012097",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "163",
+    "option_count": 3,
+    "question": "What are the four families of clouds?",
+    "options": [
+      "Stratus, cumulus, nimbus, and cirrus.",
+      "Clouds formed by updrafts, front, cooling layers of air, and precipitation into warm air.",
+      "Height, middle, low, and those with extensive vertical development."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012098",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "164",
+    "option_count": 3,
+    "question": "A high cloud is composed mostly of",
+    "options": [
+      "ozone.",
+      "condensation nuclei",
+      "ice crystals"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012099",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "165",
+    "option_count": 3,
+    "question": "Which clouds have the greatest turbulence?",
+    "options": [
+      "TCU",
+      "CB",
+      "AC"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012100",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "166",
+    "option_count": 3,
+    "question": "Fog is usually prevalent in industrial areas because of",
+    "options": [
+      "atmospheric stabilization around cities.",
+      "an abundance of condensation nuclei from combustion products.",
+      "increased temperature due to industrial heating."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012101",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "167",
+    "option_count": 3,
+    "question": "What situation is most conducive to the formation of radiation fog?",
+    "options": [
+      "Warm, moist air over low, flatted areas on clear calm night.",
+      "Moist, tropical air moving over cold, offshore water.",
+      "The movement of cold air over much warmer water."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012102",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "168",
+    "option_count": 3,
+    "question": "Which are characteristics of an unstable cold air mass moving over a warm surface?",
+    "options": [
+      "Cumuliform clouds, turbulence and poor visibility.",
+      "Cumuliform clouds, turbulence and good visibility.",
+      "Stratiform clouds, smooth air and poor visibility."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012103",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "169",
+    "option_count": 3,
+    "question": "What are the requirements for the formation of a thunderstorm?",
+    "options": [
+      "A cumulus cloud with sufficient moisture.",
+      "A cumulus cloud with sufficient moisture and an inverted lapse rate.",
+      "Sufficient moisture, an unstable lapse rate, and a lifting action."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012104",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "170",
+    "option_count": 3,
+    "question": "Which weather phenomenon signals the beginning of the mature of a thunderstorm?",
+    "options": [
+      "The start of rain at the surface.",
+      "Growth rate of cloud is maximum.",
+      "Strong turbulence in the cloud."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012105",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "171",
+    "option_count": 3,
+    "question": "During the life cycle of a thunderstorm, which stage is characterized predominately by downdrafts?",
+    "options": [
+      "Cumulus.",
+      "Dissipating.",
+      "Mature."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012106",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "172",
+    "option_count": 3,
+    "question": "What is an indication that downdrafts have developed and the thunderstorm cell has entered the mature stage?",
+    "options": [
+      "The anvil top has completed its development.",
+      "Precipitation begins to fall from the cloud base.",
+      "A gust front forms."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012107",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "173",
+    "option_count": 3,
+    "question": "What is an important characteristic of wind shear?",
+    "options": [
+      "It is an atmospheric condition that is associated exclusively with zones of convergence.",
+      "The Coriolis phenomenon in both high- and low level air masses is the principal generating force.",
+      "It is an atmospheric condition that may be associated with a low-level temperature inversion, a jet stream, or a frontal zone."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012108",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "174",
+    "option_count": 3,
+    "question": "When passing through an abrupt wind shear which involves a shift from a tailwind to a headwind, what power management would normally be required to maintain a constant indicated airspeed and ILS glide slope?",
+    "options": [
+      "Higher than normal power initially, followed by a further increase as the wind shear is encountered, then a decrease.",
+      "Lower than normal power initially, followed by a further decrease as the wind shear is encountered, then an increase.",
+      "Higher than normal power initially, followed by a decrease as the shear is encountered, then an increase."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012109",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "175",
+    "option_count": 3,
+    "question": "When a climb or descent through an inversion or wind-shear zone is being performed, the pilot should be alert for which of the following change in airplane performance?",
+    "options": [
+      "A fast rate of climb and a slow rate of descent.",
+      "A sudden change in airspeed.",
+      "A sudden surge of thrust."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012110",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "176",
+    "option_count": 3,
+    "question": "What is meant by the entry in the remarks section of METAR surface report for KBNA? METAR KBNA 211250Z 33018KT 290V260 1/2SM R31/2700FT +SN BLSNFG VV008 00/M03 A2991 RMK RAE42SNB42",
+    "options": [
+      "The wind is variable from 290配o 360?.",
+      "Heavy blowing snow and fog on runway 31.",
+      "Rain ended 42 past the hour, snow began 42 past the hour."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012111",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "177",
+    "option_count": 3,
+    "question": "A \"VRB\" wind entry in a Terminal Aerodrome forecast (TAF) will be indicated when the wind is",
+    "options": [
+      "3 knots or less.",
+      "6 knots or less.",
+      "9 knots or less."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012112",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "178",
+    "option_count": 3,
+    "question": "When the visibility is greater than 6 SM on a TAF is expressed as",
+    "options": [
+      "6PSM.",
+      "P6SM.",
+      "6SMP."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012113",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "179",
+    "option_count": 3,
+    "question": "What is the forecast wind at 180OZ in the following TAF? KMEM 091740Z 1818 00000KT 1/2SM RAFG OVC005=",
+    "options": [
+      "Calm.",
+      "Unknown.",
+      "Not recorded."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012114",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "180",
+    "option_count": 3,
+    "question": "Which meteorological condition is issued in the form of a SIGMET (WS)?",
+    "options": [
+      "Widespread sand or dust storms lowering visibility to less than 3 miles.",
+      "Moderate icing.",
+      "Sustained winds of 30 knots or greater at the surface."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012115",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "181",
+    "option_count": 3,
+    "question": "What is the maximum forecast period for AIRMETS?",
+    "options": [
+      "Two hours.",
+      "Four hours.",
+      "Six hours."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012116",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "182",
+    "option_count": 3,
+    "question": "AIRMETs are issued on a scheduled basis every",
+    "options": [
+      "15 minutes after the hour only.",
+      "15 minutes until the Al RMET is canceled.",
+      "every 6 hours."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012117",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "183",
+    "option_count": 3,
+    "question": "Moisture is added to a parcel of air by",
+    "options": [
+      "sublimation and condensation.",
+      "evaporation and condensation.",
+      "evaporation and sublimation."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012118",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "184",
+    "option_count": 3,
+    "question": "In the Northern Hemisphere, the wind is deflected to the",
+    "options": [
+      "right by Coriolis force.",
+      "right by surface friction.",
+      "left by Coriolis force."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012119",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "185",
+    "option_count": 3,
+    "question": "Which is true with respect to a high- or low- pressure system?",
+    "options": [
+      "A high-pressure area or ridge is an area of rising air.",
+      "A low-pressure area or trough is an area of descending air.",
+      "A high-pressure area or ridge is an area of descending air."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012120",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "186",
+    "option_count": 3,
+    "question": "When flying into a low-pressure area in the Northern Hemisphere, the wind direction and velocity will be from the",
+    "options": [
+      "left and decreasing.",
+      "left and increasing.",
+      "right and decreasing."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012121",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "187",
+    "option_count": 3,
+    "question": "While flying cross-country, in the Northern Hemisphere, you experience a continuous left crosswind which is associated with a major wind system. this indicates that you",
+    "options": [
+      "are flying toward an area of generally unfavorable weather conditions.",
+      "have flown from an area of unfavorable weather conditions.",
+      "cannot determine weather conditions without knowing pressure changes."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012122",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "188",
+    "option_count": 3,
+    "question": "What prevents air from flowing directly from high-pressure areas to low-pressure areas?",
+    "options": [
+      "Coriolis force.",
+      "Surface friction.",
+      "Pressure gradient force."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012123",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "189",
+    "option_count": 3,
+    "question": "The wind system associated with a low-pressure area in the Northern Hemisphere is",
+    "options": [
+      "an anticyclone and is caused by descending cold air.",
+      "a cyclone and is caused by Coriolis force.",
+      "an anticyclone and is caused by Coriolis force."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012124",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "190",
+    "option_count": 3,
+    "question": "Which feature is associated with the tropopause?",
+    "options": [
+      "Constant height above the Earth.",
+      "Abrupt change in temperature lapse rate.",
+      "Absolute upper limit of cloud formation."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012125",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "191",
+    "option_count": 3,
+    "question": "What is the standard temperature at 10,000 feet?",
+    "options": [
+      "–5°C.",
+      "–15°C.",
+      "+5°C."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012126",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "192",
+    "option_count": 3,
+    "question": "What are the standard temperature and pressure values for sea level?",
+    "options": [
+      "15 degree and 29.92\" Hg.",
+      "59 degree and 101 3.2\" Hg.",
+      "15 degree and 29.92 hPa"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012127",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "193",
+    "option_count": 3,
+    "question": "What is the standard temperature at 20,000 feet?",
+    "options": [
+      "–15°C.",
+      "–20°C.",
+      "–25°C."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012128",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "194",
+    "option_count": 3,
+    "question": "The presence of standing lenticular altocumulus clouds is a good indication of",
+    "options": [
+      "lenticular ice formation in calm air.",
+      "very strong turbulence.",
+      "heavy icing conditions."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012129",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "195",
+    "option_count": 3,
+    "question": "Which conditions are favorable for the formation of a surface based temperature inversion?",
+    "options": [
+      "Clear, cool nights with calm or light wind.",
+      "Area of unstable air rapidly transferring heat from the surface.",
+      "Broad areas of cumulus clouds with smooth, level bases at the same altitude."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012130",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "196",
+    "option_count": 3,
+    "question": "With respect to advection fog, which statement is true?",
+    "options": [
+      "It is slow to develop, and dissipates quite rapidly.",
+      "It forms almost exclusively at night or near daybreak.",
+      "It can appear suddenly during day or night, and it is more persistent than radiation fog."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012131",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "197",
+    "option_count": 3,
+    "question": "The formation of either predominantly stratiform or predominantly cumuliform clouds is dependent upon the",
+    "options": [
+      "source of lift.",
+      "stability of the air being lifted.",
+      "temperature of the air being lifted."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012132",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "198",
+    "option_count": 3,
+    "question": "Which is true regarding the development of convective circulation?",
+    "options": [
+      "Cool air must sink to force the warm air upward.",
+      "Warm air is less dense and rises on its own accord.",
+      "Warmer air covers a larger surface area than the cool air; therefore, the warmer air is less dense and rises."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012133",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "199",
+    "option_count": 3,
+    "question": "What feature is normally associated with the cumulus stage of a thunderstorm?",
+    "options": [
+      "Roll cloud.",
+      "Continuous updraft.",
+      "Beginning of rain at the surface."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012134",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "200",
+    "option_count": 3,
+    "question": "The most severe weather conditions, such as destructive winds, heavy hail, and tornadoes, are generally associated with",
+    "options": [
+      "slow-moving warm fronts which slope above the tropopause.",
+      "squall lines.",
+      "fast-moving occluded fronts."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012135",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "201",
+    "option_count": 3,
+    "question": "Of the following, turbulence associated with thunderstorms?",
+    "options": [
+      "outside the clouds, shear turbulence can be encountered 50 miles laterally from a severe storm.",
+      "Shear turbulence is encountered only inside cumulonimbus clouds or within a 5-mile radius of them.",
+      "Outside the cloud, shear turbulence can be encountered 20 miles laterally from a severe storm."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012136",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "202",
+    "option_count": 3,
+    "question": "Refer to the e following METAR report: KTUS … 08004KT 4SM HZ ….. 26/04 A2995 RMK RAE36 At approximately what altitude AGL should bases of convective-type cumuliform clouds be expected?",
+    "options": [
+      "4,400 feet.",
+      "8,800 feet.",
+      "17,600 feet."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012137",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "203",
+    "option_count": 3,
+    "question": "On a Surface Analysis Chart, the solid lines that depict sea level pressure patterns are called",
+    "options": [
+      "isobars",
+      "isogons",
+      "millibars"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012138",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "204",
+    "option_count": 3,
+    "question": "On a Surface Analysis Chart, close spacing of the isobars indicates",
+    "options": [
+      "weak pressure gradient.",
+      "strong pressure gradient.",
+      "strong temperature gradient."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012139",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "205",
+    "option_count": 3,
+    "question": "The visibility entry in a Terminal Aerodrome Forecast (TAF) of P6SM implies that the prevailing visibility is expected to be greater than",
+    "options": [
+      "6 nautical miles.",
+      "6 statute miles.",
+      "6 kilometers."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012140",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "206",
+    "option_count": 3,
+    "question": "Which primary source contains information regarding the expected weather at the destination airport at the ETA?",
+    "options": [
+      "Low-level Prog Chart.",
+      "Radar Summary and weather depiction charts.",
+      "Terminal Aerodrome Forecast."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012141",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "207",
+    "option_count": 3,
+    "question": "Weather conditions expected to occur in the vicinity of the airport, but not at the airport, are denoted by the letters “VC”. When VC appears in a terminal aerodrome forecast, it covers a geographical area of",
+    "options": [
+      "a 8 to 16 status kilometer radius from the airport.",
+      "a 8-kilometer radius of the center of a runway complex.",
+      "16 kilometers of the station originating the forecast."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012142",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "208",
+    "option_count": 3,
+    "question": "According the METAR: RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995= The wind speed at 12/0230Z is",
+    "options": [
+      "25kt",
+      "17kt",
+      "50kt"
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012143",
+    "group_id": "1",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "209",
+    "option_count": 3,
+    "question": "According the METAR: RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA= The visibility at 12/0230Z is",
+    "options": [
+      "1500m",
+      "1500ft",
+      "8000m"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012144",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "210",
+    "option_count": 3,
+    "question": "According the METAR: RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995 TEMPO 1500 SHRA= The Ceiling at 12/0230Z is",
+    "options": [
+      "1200ft",
+      "9000ft",
+      "2500ft"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012145",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "211",
+    "option_count": 3,
+    "question": "According the METAR: RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995= The Dew Point Temperature at 12/0230Z is",
+    "options": [
+      "24°C",
+      "27°C",
+      "30°C"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012146",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "212",
+    "option_count": 3,
+    "question": "According the METAR: RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995= The Temperature at 12/0230Z is",
+    "options": [
+      "24°C",
+      "27°F",
+      "27°C"
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012147",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "213",
+    "option_count": 3,
+    "question": "According the METAR: RCTP 120230Z 25017KT 8000 -SHRA FEW012 BKN025 OVC090 27/24 Q0995= The QNH at 12/0230Z is",
+    "options": [
+      "995 mb",
+      "27 in-Hg",
+      "1012 mb"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012148",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "214",
+    "option_count": 3,
+    "question": "Every physical process of weather is accompanied by, or is the result of , a",
+    "options": [
+      "movement of air.",
+      "pressure differential.",
+      "heat exchange."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012149",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "215",
+    "option_count": 3,
+    "question": "What causes variations in altimeter settings between weather reporting points?",
+    "options": [
+      "Unequal heating of the Earth's surface.",
+      "Variation of terrain elevation.",
+      "Coriolis force."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012150",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "216",
+    "option_count": 3,
+    "question": "The wind at 5,000 feet AGL is southwesterly while the surface wind is southerly. this difference in direction is primarily due to",
+    "options": [
+      "stronger pressure graident at higher altitudes.",
+      "friction between the wind and the surface.",
+      "stronger Coriolis force at the surface."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012151",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "217",
+    "option_count": 3,
+    "question": "Convective circulation patterns associated with sea breezes are caused by",
+    "options": [
+      "warm, dense air moving inland from over the water.",
+      "water absorbing and radiating heat faster than the land.",
+      "cool, dense air moving inland from over the water."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012152",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "218",
+    "option_count": 3,
+    "question": "The development of thermals depends upon",
+    "options": [
+      "a counterclockwise circulation",
+      "temperature inversions.",
+      "solar heating."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012153",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "219",
+    "option_count": 3,
+    "question": "The boundary between two different air masses is referred to as a",
+    "options": [
+      "frontolysis.",
+      "frontogenesis.",
+      "front."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012154",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "220",
+    "option_count": 3,
+    "question": "One weather phenomenon which will always occure when flying across a front is a change in the",
+    "options": [
+      "wind direction.",
+      "type of precipitation.",
+      "stability of the air mass."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012155",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "221",
+    "option_count": 3,
+    "question": "One of the most easily recognized discontinuities across a front is",
+    "options": [
+      "a change in temperature.",
+      "an increase in cloud coverage.",
+      "an increase in relative humidity."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012156",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "222",
+    "option_count": 3,
+    "question": "If there is thunderstorm activity in the vicinity of an airport at which you plan to land, which hazardous atmospheric phenomenon might be expected on the landing approach?",
+    "options": [
+      "Precipitation static.",
+      "Wind-shear turbulence.",
+      "Steady rain."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012157",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "223",
+    "option_count": 3,
+    "question": "A nonfrontal, narrow band of active thunderstorms that often develop ahead of a cold front is known as a",
+    "options": [
+      "prefrontal system.",
+      "squall line.",
+      "dry line."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012158",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "224",
+    "option_count": 3,
+    "question": "What conditions are necessary for the formation of thunderstorms?",
+    "options": [
+      "High humidity, lifting force, and unstable conditions.",
+      "High humidity, high temperature, and cumulus clouds.",
+      "Lifting force, moist air, and extensive cloud cover."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012159",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "225",
+    "option_count": 3,
+    "question": "During the life cycle of a thunderstorm, which stage is characterized predominately by downdrafts?",
+    "options": [
+      "Cumulus.",
+      "Dissipating.",
+      "Mature."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012160",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "226",
+    "option_count": 3,
+    "question": "Thunderstorms reach their greatest intensity during the",
+    "options": [
+      "mature stage.",
+      "downdraft stage.",
+      "cumulus stage."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012161",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "227",
+    "option_count": 3,
+    "question": "What feature is normally associated with the cumulus stage of a thunderstorm?",
+    "options": [
+      "Roll cloud.",
+      "Continuous updraft.",
+      "Frequent lightning."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012162",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "228",
+    "option_count": 3,
+    "question": "Which weather phenomenon signals the beginning of the mature stage of a thunderstorm?",
+    "options": [
+      "The appearance of an anvil top.",
+      "Precipitation beginning to fall.",
+      "Maximum growth rate of the clouds."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012163",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "229",
+    "option_count": 3,
+    "question": "Thunderstorms which generally produce the most intense hazard to aircraft are",
+    "options": [
+      "squall line thunderstorms.",
+      "steady-state thunderstorms.",
+      "warm front thunderstorms."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012164",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "230",
+    "option_count": 3,
+    "question": "Which weather phenomenon is always associate with a thunderstorm?",
+    "options": [
+      "Lightning.",
+      "Heavy rain.",
+      "Hail."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012165",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "231",
+    "option_count": 3,
+    "question": "One in-flight condition necessary for structural icing for form is",
+    "options": [
+      "small temperature/ dewpoint spread.",
+      "stratiform clouds.",
+      "visible moisture."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012166",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "232",
+    "option_count": 3,
+    "question": "In which environment is aircraft structural ice most likely to have the highest accumulation rate?",
+    "options": [
+      "Cumulus clouds with below freezing temperatures.",
+      "Freezing drizzle.",
+      "Freezing rain."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012167",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "233",
+    "option_count": 3,
+    "question": "The presence of ice pellets at the surface is evidence that there",
+    "options": [
+      "are thunderstorms in the area.",
+      "has been cold frontal passage.",
+      "is a temperature inversion with freezing rain at a higher altitude."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012168",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "234",
+    "option_count": 3,
+    "question": "An almond or lens-shaped cloud which appears stationary, but which may contain winds of 50 knots or more, is referred to as",
+    "options": [
+      "an inactive frontal cloud.",
+      "a funnel cloud.",
+      "a lenticular cloud."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012169",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "235",
+    "option_count": 3,
+    "question": "Crests of standing mountain waves may be marked by stationary, lens-shaped clouds know as",
+    "options": [
+      "mammatocumulus clouds.",
+      "standing lenticular clouds.",
+      "roll clouds."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012170",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "236",
+    "option_count": 3,
+    "question": "Possible mountain wave turbulence could be anticipated when winds of 40 knots or greater blow",
+    "options": [
+      "across a mountain ridge, and the air is stable.",
+      "down a mountain valley, and the air is unstable.",
+      "parallele to a mountain peak, and the air is stable."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012171",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "237",
+    "option_count": 3,
+    "question": "Where does wind shear occur?",
+    "options": [
+      "Only at higher altitudes.",
+      "Only at lower altitudes",
+      "At all altitudes, in all directions."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012172",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "238",
+    "option_count": 3,
+    "question": "A pilot can expect a wind-shear zone in a temperature inversion whenever the windspeed at 2,000 to 4,000 feet above the surface is at least",
+    "options": [
+      "10 knots.",
+      "15 knots.",
+      "25 knots."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012173",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "239",
+    "option_count": 3,
+    "question": "When may hazardous wind shear be expected?",
+    "options": [
+      "When stable air crosses a mountain barrier where it tends to flow in layers forming lenticular clouds.",
+      "In areas of low-level temperature inversion, frontal zones, and clear air turbulence.",
+      "Following frontal passage when stratocumulus clouds form indicating mechanical mixing."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012174",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "240",
+    "option_count": 3,
+    "question": "If the temperature/ dewpoint spread is small and decreasing, and the temperature is 62oF, what type of weather is most likely to develop?",
+    "options": [
+      "Freezing precipitation.",
+      "Thunderstorms.",
+      "Fog or low clouds."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012175",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "241",
+    "option_count": 3,
+    "question": "What is meant by the term \"dewpoint\"?",
+    "options": [
+      "The temperature at which condensation and evaporation are equal.",
+      "The temperature at which dew will always form.",
+      "The tempreatuer to which air must be cooled to become saturated."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012176",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "242",
+    "option_count": 3,
+    "question": "The amount of water vapor which air can hold depend on the",
+    "options": [
+      "dewpoint.",
+      "air temperature.",
+      "stability of the air."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012177",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "243",
+    "option_count": 3,
+    "question": "What are the processes by which moisture is added to unsaturated air?",
+    "options": [
+      "Evaporation and sublimation.",
+      "Heating and condensation.",
+      "Supersaturation and evaporation."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012178",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "244",
+    "option_count": 3,
+    "question": "Which conditions result in the formation of frost?",
+    "options": [
+      "The temperature of the collecting suface is at or below freezing when small droplets of moisture fall on the surface.",
+      "The temperature of the collecting suface is at or below the dewpoint of the adjacent air and the dewpoint is below freezing.",
+      "The temperature of the surrounding air is at or below freezing when small drops of moisture fall on the collecting surface."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012179",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "245",
+    "option_count": 3,
+    "question": "Clouds, fog, or dew will always form when",
+    "options": [
+      "water vapor condenses.",
+      "water vapor is present.",
+      "relative humidity reaches 100 percent"
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012180",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "246",
+    "option_count": 3,
+    "question": "Low-level turbulence can occur and icing can become hazardous in which type of fog?",
+    "options": [
+      "Rain-induced fog.",
+      "Upslope fog.",
+      "Steam fog."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012181",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "247",
+    "option_count": 3,
+    "question": "In which situation is advection fog most likely to form?",
+    "options": [
+      "A warm, moist air mass on the windward side of mountains.",
+      "An air mass moving inland from the coast in winter.",
+      "A light breeze blowing colder air out to sea."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012182",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "248",
+    "option_count": 3,
+    "question": "What situation is most conductiive to the formation of radiation fog?",
+    "options": [
+      "Warm, moist air over low, flatland areas on clear, calm nights.",
+      "Moist, tropical air moving over cold, offshore water.",
+      "The movement of cold air over much warmer water."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012183",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "249",
+    "option_count": 3,
+    "question": "What types of fog depend upon wind in order to exist?",
+    "options": [
+      "Radiation fog and ice fog.",
+      "Steam fog and ground fog.",
+      "Advection fog and upslope fog."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012184",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "250",
+    "option_count": 3,
+    "question": "Clouds are divided into four families according to their",
+    "options": [
+      "outward shape.",
+      "height range.",
+      "composition."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012185",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "251",
+    "option_count": 3,
+    "question": "The suffix \"nimbus\", used in naming clouds, means",
+    "options": [
+      "a cloud with extensive vertical development.",
+      "a rain cloud.",
+      "a middle cloud containing ice pellets."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012186",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "252",
+    "option_count": 3,
+    "question": "The conditions necessary for the formation of cumulonimbus clouds aer a lifting action and",
+    "options": [
+      "unstable air containing an excess of condensation nuclei.",
+      "unstable, moist air.",
+      "either stable or unstable air."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012187",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "253",
+    "option_count": 3,
+    "question": "What clouds have the greatest turbulence?",
+    "options": [
+      "Towering cumulus.",
+      "Cumulonimbus.",
+      "Nimbostratus."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012188",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "254",
+    "option_count": 3,
+    "question": "What cloud types would indicate convective turbulence?",
+    "options": [
+      "Cirrus clouds.",
+      "Nimbostratus clouds.",
+      "Towering cumulus clouds."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012189",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "255",
+    "option_count": 3,
+    "question": "At approximately what altitude above the surface would the pilot expect the base of cumuliform clouds if the surface air temperature is 82°F and the dewpoint is 38°F?",
+    "options": [
+      "9,000 feet AGL.",
+      "10,000 feet AGL.",
+      "11,000 feet AGL."
+    ],
+    "answer": "B",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012190",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "256",
+    "option_count": 3,
+    "question": "What is the approximate base of the cumulus clouds if the surface air temperature at 1,000 feet MSL is 70°F and the dewpoint is 48°F?",
+    "options": [
+      "4,000 feet MSL.",
+      "5,000 feet MSL.",
+      "6,000 feet MSL."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012191",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "257",
+    "option_count": 3,
+    "question": "What is a characteristic of stable air?",
+    "options": [
+      "Stratiform clouds.",
+      "Unlimited visibility.",
+      "Cumulus clouds."
+    ],
+    "answer": "A",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012192",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "258",
+    "option_count": 3,
+    "question": "What values are used for Winds Aloft Forecasts?",
+    "options": [
+      "Magnetic direction and knots.",
+      "Magnetic direction and miles per hour.",
+      "True direction and knots."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012193",
+    "group_id": "1",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "259",
+    "option_count": 3,
+    "question": "(Refer to chart 6.)What wind is forecast for ZGGG at 18,000 feet?",
+    "options": [
+      "260 degree true at 10 knots.",
+      "235 degree true at 06 knots.",
+      "235 degree magnetic at 06, peak gusts to 16 knots."
+    ],
+    "answer": "A",
+    "images": [
+      "img/A24_chart6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012194",
+    "group_id": "2",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "260",
+    "option_count": 3,
+    "question": "(Refer to chart 6.)Determine the wind and temperature aloft forecast for ZSSS at 29,000 feet.",
+    "options": [
+      "023 degree magnetic at 53 knots, temperature 47 degreeC.",
+      "300degree ture at 70 knots, temperature -35 degree C.",
+      "235 degree true at 34 knots, temperature -7 degreeC."
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_chart6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012196",
+    "group_id": "2",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "261",
+    "option_count": 3,
+    "question": "(Refer to figure 6.)nterpret the weather symbol depicted in southern California on the 12-hour Significant Weather Prognostic Chart.",
+    "options": [
+      "Moderate turbulence, surface to 18,000 feet.",
+      "Thunderstorm tops at 18,000 feet.",
+      "Base of clear air turbulence, 18,000 feet."
+    ],
+    "answer": "A",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012197",
+    "group_id": "3",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "262",
+    "option_count": 3,
+    "question": "(Refer to figure 6.)At what altitude is the freezing level over northeastern Oklahoma on the 24-hour Significant Weather Prognostic Chart?",
+    "options": [
+      "4,000 feet.",
+      "8,000 feet.",
+      "10,000 feet."
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012198",
+    "group_id": "4",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "263",
+    "option_count": 3,
+    "question": "(Refer to figure 6.)How are Significant Weather Prognostic Charts best used by a pilot?",
+    "options": [
+      "For overall planning at all altitudes.",
+      "For determining areas to avoid (freezing levels and turbulence).",
+      "For analyzing current frontal activity and cloud coverage."
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012199",
+    "group_id": "5",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "264",
+    "option_count": 3,
+    "question": "(Refer to figure 6.)The low pressure associated with the cold front in the western states is forecast to move",
+    "options": [
+      "east at 30 knots.",
+      "northeast at 12 knots.",
+      "southeast at 30 knots."
+    ],
+    "answer": "A",
+    "images": [
+      "img/A24_Fig6.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012200",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "265",
+    "option_count": 3,
+    "question": "SIGMET's are issued as a warning of weather conditions hazardous to which aircraft?",
+    "options": [
+      "Small aircraft only.",
+      "Large aircraft only.",
+      "All aircraft."
+    ],
+    "answer": "C",
+    "images": []
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012201",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "266",
+    "option_count": 3,
+    "question": "(Refer to figure 1) 'The turbulence located at N45W170 is",
+    "options": [
+      "Light turbulence",
+      "moderate turbulence",
+      "severe turbulence"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012202",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "267",
+    "option_count": 3,
+    "question": "(Refer to figure 1) 'What is the jet stream at N45W170t?",
+    "options": [
+      "a jet stream with a maximum wind speed of 100kts at FL 280",
+      "a jet stream with a maximum wind speed of 110kts at FL 370",
+      "a jet stream with a maximum wind speed of 100kts at FL 360"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012203",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "268",
+    "option_count": 3,
+    "question": "(Refer to figure 1)' When does the HIGH LEVEL SIGWX CHART become valid",
+    "options": [
+      "2010 MAY 06 0000Z",
+      "2010 MAY 07 0000Z",
+      "2010 MAY 06 0000L(TPE)"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012204",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "269",
+    "option_count": 3,
+    "question": "(Refer to figure 1) 'The depiction N15E140 in represents",
+    "options": [
+      "Turbulence at FL500",
+      "CIELING of FL500",
+      "a tropopause height of FL500"
+    ],
+    "answer": "C",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012205",
+    "group_id": "3",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "270",
+    "option_count": 3,
+    "question": "(Refer to figure 1)'The chart in encompasses airspace",
+    "options": [
+      "FL250 and below",
+      "FL250-FL650",
+      "The ohter answers are correct."
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012206",
+    "group_id": "4",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "271",
+    "option_count": 3,
+    "question": "(Refer to figure 1)' what is the ceiling of the CB located at N30E140",
+    "options": [
+      "FL 250",
+      "FL430",
+      "from sea level to FL 320"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012207",
+    "group_id": "5",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "272",
+    "option_count": 3,
+    "question": "(Refer to figure 1), in at N42W125 represents",
+    "options": [
+      "Light C.A.T.",
+      "Moderate C.A.T.",
+      "Severe C.A.T."
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012208",
+    "group_id": "6",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "273",
+    "option_count": 3,
+    "question": "(Refer to figure 1)' , the height of the cloud at S10E110 is",
+    "options": [
+      "FL250",
+      "SEA level-FL320",
+      "FL530"
+    ],
+    "answer": "C",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012209",
+    "group_id": "7",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "274",
+    "option_count": 3,
+    "question": "(Refer to figure 1), N40W130 represents",
+    "options": [
+      "turbulence at FL360",
+      "jet stream at FL350 with maximum wind speed of 100kts",
+      "the moving direction of the cloud"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012210",
+    "group_id": "8",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "275",
+    "option_count": 4,
+    "question": "(Refer to figure 1)' , is there any information in this figure indicates light turbulence",
+    "options": [
+      "no indication of light turbulence",
+      "light turbulence at N40E164",
+      "The ohter answers are wrong.",
+      "The ohter answers are wrong."
+    ],
+    "answer": "A",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012211",
+    "group_id": "9",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "276",
+    "option_count": 4,
+    "question": "(Refer to figure 1)' , S25E160 at which flight level will the turbulence to occur?",
+    "options": [
+      "FL250-FL450",
+      "FL350-FL470",
+      "FL250-FL500",
+      "The ohter answers are wrong."
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig1.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012212",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "277",
+    "option_count": 3,
+    "question": "(Refer to figure 2)' , under standard atmosphere, at which flight level will 200hpa be?",
+    "options": [
+      "FL350",
+      "FL390",
+      "FL200"
+    ],
+    "answer": "B",
+     "images": [
+      "img/A24_Fig2.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012213",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "278",
+    "option_count": 3,
+    "question": "(Refer to figure B)'At which flight level is the top of the troposphere?",
+    "options": [
+      "30,000 feet",
+      "40,000 feet",
+      "50,000 feet"
+    ],
+    "answer": "A",
+    "images": ["img/A24_FigB.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012214",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "279",
+    "option_count": 4,
+    "question": "(Refer to figure C )'What does the depiction in this chart represent?",
+    "options": [
+      "regional low pressure system tops 27,000 feet",
+      "regional freezing level at 27,000 feet",
+      "a low tropopause height of FL 270",
+      "the highest point of the tropopause is FL 270"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigC.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012215",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "280",
+    "option_count": 3,
+    "question": "(Refer to figure D)At which flight level is the top of the troposphere?",
+    "options": [
+      "30,000 feet",
+      "40,000 feet",
+      "50,000 feet"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigC.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012216",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "281",
+    "option_count": 4,
+    "question": "(Refer to figure E )'this depiction indicates",
+    "options": [
+      "regional low pressure system tops FL 430",
+      "regional freezing level at FL 430",
+      "a HIGH tropopause height of FL 430 in this area",
+      "the highest point of the tropopause is FL 430"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigE.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012217",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "282",
+    "option_count": 3,
+    "question": "'(Refer to figure L )this depiction indicates",
+    "options": [
+      "light icing",
+      "moderate icing",
+      "severe icing"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigL.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012218",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "283",
+    "option_count": 3,
+    "question": "'(Refer to figure N )this depiction indicates",
+    "options": [
+      "light turbulence",
+      "moderate turbulence",
+      "severe turbulence"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigN.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012219",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "284",
+    "option_count": 3,
+    "question": "'(Refer to figure O )this depiction indicates",
+    "options": [
+      "light turbulence",
+      "moderate turbulence",
+      "severe turbulence"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigO.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012220",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "285",
+    "option_count": 3,
+    "question": "'(Refer to figure G ), at which flight level is the cloud base?",
+    "options": [
+      "FL 380",
+      "FL 270",
+      "unknown"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigG.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012221",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "286",
+    "option_count": 3,
+    "question": "'(Refer to figure H )at which flight level is the cloud base?",
+    "options": [
+      "FL 380",
+      "FL 270",
+      "unknown"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigH.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012222",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "287",
+    "option_count": 3,
+    "question": "'(Refer to figure G ) at which flight level is the ceiling of the cloud?",
+    "options": [
+      "FL 380",
+      "FL 270",
+      "unknown"
+    ],
+    "answer": "A",
+    "images": ["img/A24_FigG.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012223",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "288",
+    "option_count": 3,
+    "question": "'(Refer to figure I ), at which flight level is the cloud base?",
+    "options": [
+      "FL 380",
+      "FL280",
+      "unknown"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigI.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012224",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "289",
+    "option_count": 3,
+    "question": "'(Refer to figure K )this depiction indicates",
+    "options": [
+      "light icing",
+      "moderate icing",
+      "severe icing"
+    ],
+    "answer": "C",
+    "images": ["img/A24_FigK.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012225",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "290",
+    "option_count": 3,
+    "question": "'(Refer to figure P )'this depiction in high-level significant weather chart indicates a wind speed of",
+    "options": [
+      "110Kts",
+      "115Kts",
+      "25Kts"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigP.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012226",
+    "group_id": "0",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "291",
+    "option_count": 3,
+    "question": "'(Refer to figure Q )'The depiction below in high-level significant weather chart indicates",
+    "options": [
+      "wind speed",
+      "temperature",
+      "altitude"
+    ],
+    "answer": "B",
+    "images": ["img/A24_FigQ.png"]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012227",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "292",
+    "option_count": 4,
+    "question": "According to  figure 3,the SIGNIFICANT WEATHER PROGNOSTIC CHART , what kind of significant weather will the flight from RCTP toZSQD encounter?",
+    "options": [
+      "moderate icing",
+      "moderate turbulence",
+      "severe icing",
+      "severe turbulence"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig3.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012228",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "293",
+    "option_count": 4,
+    "question": "According to the figure 3'What is the altitude range of the cloud heights aboveROAH ?",
+    "options": [
+      "between 240 and 360hPa",
+      "between 240 and 360mm",
+      "between 10,000 meters and 25,000 meters",
+      "between FL 100 and 250"
+    ],
+    "answer": "D",
+    "images": [
+      "img/A24_Fig3.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012229",
+    "group_id": "4",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "294",
+    "option_count": 4,
+    "question": "According to the figure 3,\"the ISOL CB encountered if landing at ZGGG\" means",
+    "options": [
+      "cumulonimbus clouds spread up in line",
+      "cumulonimbus cover all the mark area",
+      "isolated cumulonimbus",
+      "cumulonimbus weakening"
+    ],
+    "answer": "C",
+    "images": [
+      "img/A24_Fig3.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012230",
+    "group_id": "1",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "295",
+    "option_count": 4,
+    "question": "Refer to the 300 hPa PROGNOSTIC CHART provided in figure 4, which flight level will be related to this figure in general?",
+    "options": [
+      "FL 400",
+      "FL 350",
+      "FL 300",
+      "FL250"
+    ],
+    "answer": "C",
+    "images": [
+      "img/A24_Fig4.png"
+    ]
+  },
+  {
+    "subject": "航空氣象",
+    "language": "ENGLISH",
+    "question_id": "0012231",
+    "group_id": "2",
+    "difficulty": "中",
+    "revision": "",
+    "question_number": "296",
+    "option_count": 4,
+    "question": "Refer to the 300 hPa PROGNOSTIC CHART provided in figure 4,'Please calculate the temperature and wind aloft value of RCTP by interpolation.",
+    "options": [
+      "wind speed 45KT, temperature -30℉",
+      "wind speed 45KT, temperature -30℃",
+      "wind speed 95KT, temperature -30℉",
+      "wind speed 95KT, temperature -30℃"
+    ],
+    "answer": "B",
+    "images": [
+      "img/A24_Fig4.png"
+    ]
   }
 ]
