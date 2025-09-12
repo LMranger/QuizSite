@@ -21981,7 +21981,7 @@
     "revision": "",
     "question_number": "30",
     "option_count": 3,
-    "question": "3 ( )\nB 30 . \"已知：\n空重 - 1100/位置30\n駕駛員（前座）重170/位置-45\n旅客重160/位置+2\n壓艙物重50/位置-50\n重心位於？\"",
+    "question": "\"已知：空重 - 1100/位置30。 駕駛員（前座）重170/位置-45。 旅客重160/位置+2。 壓艙物重50/位置-50。 重心位於？\"",
     "options": [
       "+15.91",
       "+15.66",
@@ -21998,7 +21998,7 @@
     "revision": "",
     "question_number": "31",
     "option_count": 3,
-    "question": "\"已知：\n空重 - 937/位置29.07\n駕駛員（前座）重170/位置-45.3\n旅客重160/位置+1.60\n壓艙物重15/位置-45.30\n重心位於？\"",
+    "question": "\"已知：空重 - 937/位置29.07。 駕駛員（前座）重170/位置-45.3。 旅客重160/位置+1.60。 壓艙物重15/位置-45.30。 重心位於？\"",
     "options": [
       "+14.91",
       "+16.43",
@@ -22069,7 +22069,7 @@
     "revision": "",
     "question_number": "35",
     "option_count": 3,
-    "question": "\"已知：\n重量A -\n155磅，位置45英吋\n重量B -\n165磅，位置145英吋\n重量C -\n95磅，位置195英吋\n根據以上資訊，重心位置？\"",
+    "question": "\"已知：\n重量A -155磅，位置45英吋。 重量B -165磅，位置145英吋。 重量C -\n95磅，位置195英吋。 根據以上資訊，重心位置？\"",
     "options": [
       "126.8英吋",
       "122.2英吋",
@@ -22086,7 +22086,7 @@
     "revision": "",
     "question_number": "36",
     "option_count": 4,
-    "question": "\"已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000,\nTOF=30000, 此趟飛行允許之最大起飛重量為何?\"",
+    "question": "\"已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000, 此趟飛行允許之最大起飛重量為何?\"",
     "options": [
       "160634",
       "170000",
@@ -22104,7 +22104,7 @@
     "revision": "",
     "question_number": "37",
     "option_count": 4,
-    "question": "4 ( )\nB 37 . \"已知: MZFW=15830, MLDW=17000, MTOW=18370, DOW=10950, 酬載為4640, TIF=1400, 最低起飛油量為2130, 最多可再多載多少額外油量 ?\"",
+    "question": "\"已知: MZFW=15830, MLDW=17000, MTOW=18370, DOW=10950, 酬載為4640, TIF=1400, 最低起飛油量為2130, 最多可再多載多少額外油量 ?\"",
     "options": [
       "1990",
       "650",
@@ -22122,7 +22122,7 @@
     "revision": "",
     "question_number": "38",
     "option_count": 4,
-    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=23000, TOF=40000\n此趟飛行允許之最大酬載重量maximum allowed traffic load為何?",
+    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=23000, TOF=40000 此趟飛行允許之最大酬載重量maximum allowed traffic load為何?",
     "options": [
       "40748",
       "40114",
@@ -22140,7 +22140,7 @@
     "revision": "",
     "question_number": "39",
     "option_count": 4,
-    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000\n此趟飛行允許之最大起飛重量 allowed weight for take off為何?",
+    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000 此趟飛行允許之最大起飛重量 allowed weight for take off為何?",
     "options": [
       "160634",
       "170000",
@@ -22349,7 +22349,7 @@
     "options": [
       "參考位置之後 93.13 英吋",
       "參考位置之後 92.13 英吋",
-      "參考位置之後 94.13\n英吋"
+      "參考位置之後 94.13 英吋"
     ],
     "answer": "B"
   },
@@ -22362,11 +22362,11 @@
     "revision": "",
     "question_number": "52",
     "option_count": 3,
-    "question": "\"一航空器重4,800磅，其重心位於參考位置後96英吋，裝了三件行李在後行李艙，如果從後行李艙（位於參考位置後145英吋）移動90磅行李至前行李艙（位於參考位置後45\n英吋），新重心位置？\"",
+    "question": "\"一航空器重4,800磅，其重心位於參考位置後96英吋，裝了三件行李在後行李艙，如果從後行李艙（位於參考位置後145英吋）移動90磅行李至前行李艙（位於參考位置後45英吋），新重心位置？\"",
     "options": [
       "參考位置之後 96.13 英吋",
       "參考位置之後 95.13 英吋",
-      "參考位置之後 94.13\n英吋"
+      "參考位置之後 94.13 英吋"
     ],
     "answer": "C"
   },
@@ -22379,7 +22379,7 @@
     "revision": "",
     "question_number": "53",
     "option_count": 3,
-    "question": "\"一航空器重4,800磅，其重心位於參考位置後98英吋，裝了三件行李在後行李艙，如果從後行李艙（位於參考位置後145英吋）移動300磅行李至前行李艙（位於參考位置後45\n英吋），新重心位置？\"",
+    "question": "\"一航空器重4,800磅，其重心位於參考位置後98英吋，裝了三件行李在後行李艙，如果從後行李艙（位於參考位置後145英吋）移動300磅行李至前行李艙（位於參考位置後45英吋），新重心位置？\"",
     "options": [
       "參考位置之後 91.75 英吋",
       "參考位置之後87.58 英吋",
@@ -22396,7 +22396,7 @@
     "revision": "",
     "question_number": "54",
     "option_count": 3,
-    "question": "\"一航空器重量及重心分別為3,650磅及96，為了使重心前移至94位置，大約要從位於180\n後行李艙移動多少行李至位於80的前行李艙？\"",
+    "question": "\"一航空器重量及重心分別為3,650磅及96，為了使重心前移至94位置，大約要從位於180後行李艙移動多少行李至位於80的前行李艙？\"",
     "options": [
       "73.0英磅",
       "36.5英磅",
@@ -22413,7 +22413,7 @@
     "revision": "",
     "question_number": "55",
     "option_count": 3,
-    "question": "\"一航空器重量及重心分別為3,650磅及96，為了使重心前移至95位置，大約要從位於180\n後行李艙移動多少行李至位於40的前行李艙？\"",
+    "question": "\"一航空器重量及重心分別為3,650磅及96，為了使重心前移至95位置，大約要從位於180後行李艙移動多少行李至位於40的前行李艙？\"",
     "options": [
       "52.14英磅",
       "104.29英磅",
@@ -22464,7 +22464,7 @@
     "revision": "",
     "question_number": "58",
     "option_count": 3,
-    "question": "7 ( )\nB 58 . 飛機裝載後，其重心位置，通常是以何者來表示：",
+    "question": "飛機裝載後，其重心位置，通常是以何者來表示：",
     "options": [
       "參考指數",
       "MAC％",
@@ -22530,15 +22530,15 @@
     "group_id": "0",
     "difficulty": "易",
     "revision": "R20180207",
-    "question_number": "",
+    "question_number": "62",
     "option_count": 3,
     "question": "飛機所攜帶之燃油量對其重心位置之影響：",
     "options": [
       "影響甚大。",
       "不影響。",
-      "影響不大。 62 . ( )\nA"
+      "影響不大。"
     ],
-    "answer": ""
+    "answer": "A"
   },
   {
     "subject": "載重平衡",
@@ -22601,16 +22601,16 @@
     "group_id": "0",
     "difficulty": "易",
     "revision": "",
-    "question_number": "",
+    "question_number": "66",
     "option_count": 4,
     "question": "飛機之三軸交叉通過下列何者：",
     "options": [
       "機翼之重心",
       "重心",
       "平均空氣動力弦前緣",
-      "平均空氣動力弦 66 . ( )\nB"
+      "平均空氣動力弦"
     ],
-    "answer": ""
+    "answer": "B"
   },
   {
     "subject": "載重平衡",
@@ -22674,7 +22674,7 @@
     "revision": "",
     "question_number": "70",
     "option_count": 4,
-    "question": "8 ( )\nB 70 . 飛機在裝載時，務使其切合“載重平衡限制”其主要目的為：",
+    "question": "飛機在裝載時，務使其切合“載重平衡限制”其主要目的為：",
     "options": [
       "遵循民航局的規定",
       "安全上的顧慮及經濟有效的運用",
@@ -22728,7 +22728,7 @@
     "revision": "R20130508",
     "question_number": "73",
     "option_count": 4,
-    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000\n此趟飛行允許之最大酬載重量maximum allowed traffic load 為何?",
+    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=30000。此趟飛行允許之最大酬載重量maximum allowed traffic load 為何?",
     "options": [
       "40748",
       "40114",
@@ -22746,7 +22746,7 @@
     "revision": "R20130508",
     "question_number": "74",
     "option_count": 4,
-    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=40000\n此趟飛行允許之最大起飛重量 allowed weight for take off為何?",
+    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=20000, TOF=40000。此趟飛行允許之最大起飛重量 allowed weight for take off為何?",
     "options": [
       "160634",
       "170000",
@@ -22764,7 +22764,7 @@
     "revision": "R20130508",
     "question_number": "75",
     "option_count": 4,
-    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000\n此趟飛行允許之最大酬載重量maximum allowed traffic load為何?",
+    "question": "已知: MZFW=130634, MLDW=145149, MTOW=170000, DOW=89886, TIF=30000, TOF=40000。此趟飛行允許之最大酬載重量maximum allowed traffic load為何?",
     "options": [
       "40748",
       "40114",
