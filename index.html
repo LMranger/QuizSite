@@ -319,7 +319,7 @@
                           const chosen = answers[q.question_id];
                           return (
                             <li key={q.question_id} className="leading-relaxed">
-                              <div className="font-medium mb-2">{idx + 1}. {q.question}</div>
+                              <div className="font-medium mb-2">({q.question_id}) {q.question}</div>
                               {/* 新增：錯題圖片列（最多 3 張） */}
                               {q.images && q.images.length > 0 && (
                                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-2">
