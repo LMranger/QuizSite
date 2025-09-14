@@ -4528,7 +4528,7 @@
     "revision": "R20181107",
     "question_number": "265",
     "option_count": 3,
-    "question": "中華民國國民、法人及政府各級機關，向外國承租之非中華民國航空器，租賃期間在",
+    "question": "中華民國國民、法人及政府各級機關，向外國承租之非中華民國航空器，租賃期間在 _____ 個月以上，且航空器之操作及人員配備均由承租人負責者，經撤銷他國之登記後，得登記為中華民國國籍。",
     "options": [
       "3",
       "6",
@@ -9561,7 +9561,7 @@
     "revision": "R20181107",
     "question_number": "265",
     "option_count": 3,
-    "question": "Any non-ROC aircraft leased from a foreign country for a period more than ____",
+    "question": "Any non-ROC aircraft leased from a foreign country for a period more than ____ months by ROC citizens, legal persons or government agencies, may be registered as an ROC aircraft if its registration in the foreign country has been duly cancelled, provided the lessee is responsible for operating such aircraft and employing the required personnel and equipment.",
     "options": [
       "3",
       "6",
@@ -17031,7 +17031,7 @@
     "options": [
       "to maximize profit",
       "to minimize risk",
-      "to utilize resources 22"
+      "to utilize resources"
     ],
     "answer": "B"
   },
@@ -24055,7 +24055,7 @@
     "options": [
       "40748",
       "40114",
-      "38263 10"
+      "38263"
     ],
     "answer": "B"
   },
@@ -32870,7 +32870,7 @@
     "options": [
       "以無外型落地確保高落地姿態",
       "關閉所有電力開關以節省電池電力來準備落地",
-      "如可能的話,選擇在靠近公眾的區域落地 (A23) CPL飛航管理程序 最近更新日期：20180208；更新題號：11905, 11985, 12003."
+      "如可能的話,選擇在靠近公眾的區域落地"
     ],
     "answer": "C",
     "images": []
