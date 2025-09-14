@@ -31404,6 +31404,23 @@
   {
     "subject": "飛航管理程序",
     "language": "中文",
+    "question_id": "0012019",
+    "group_id": "0",
+    "difficulty": "易",
+    "revision": "",
+    "question_number": "125",
+    "option_count": 3,
+    "question": "當到達clearance limit時,飛行員應報告哪些事項?",
+    "options": [
+      "到達時間,與當時高度/空層",
+      "到達時間,與當時高度/空層,及預期的待命速度",
+      "到達時間,與當時高度/空層,預期的待命速度,及 inbound leg length"
+    ],
+    "answer": "A"
+  },
+  {
+    "subject": "飛航管理程序",
+    "language": "中文",
     "question_id": "0012020",
     "group_id": "0",
     "difficulty": "中",
